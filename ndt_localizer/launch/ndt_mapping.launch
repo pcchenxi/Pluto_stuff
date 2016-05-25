@@ -18,7 +18,7 @@
     <param name="map_terrain_length" value="$(arg map_terrain_length)" />
     <param name="shift_terrain" value="$(arg shift_terrain)" />
 
-    <remap from="/points_raw" to="/fused_velodynes" />
+    <remap from="/points_raw" to="/velodyne_points" />
   </node>
   
 </launch>
