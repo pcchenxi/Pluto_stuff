@@ -1,0 +1,36 @@
+plutoControl  
+Contains 3 cpp-files and 3 header-files.
+The main program is found in mainControl.cpp.
+
+	mainControl
+	Contains scannerCallback, main
+
+		scannerCallback
+		Function which is called when the scanner publish values.
+		Uses the input and sets the parameters of the closestObject.
+
+		main
+		Subcribes to Laserscan.
+		Call upon functions in closestObjectFunctions.cpp and kbQuiting.cpp and publish the results from these to the atrv/cmd_vel. Ends if either ROS or the user has stopped the program.
+
+	closestObjectFunctions.cpp
+	Contains lengthRangesInt, setClosestObject,  reactToObject
+
+		lengthRangesInt
+		Returns the number of values in scan, i.e. the number of angles Pluto has sent back.
+
+		setClosestObject
+		Goes through the distance values and determines the value, angle and index of the closest objcet, i.e. the one with smallest distance. Sets theese values as the parameters of closestObject and returns the object.
+
+		reactToObject
+		Sets rotational and translational speed for Pluto based on the distance and angle to the closest object. 
+		Returns the values in twist.
+
+	kbQuiting.cpp
+	Contains kbhit, kbQuit
+
+		kbhit
+		Returns 1 if a button on the keyboard was pressed and 0 otherwise.
+
+		kbQuit
+		Calls upon kbhit. If the keyboard was hit the function check if the pressed button was "Enter". If Enter was pressed kbQuit returns false (which will cause main to stop), otherwise it writes to the terminal and returns true.

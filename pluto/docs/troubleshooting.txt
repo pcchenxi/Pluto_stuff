@@ -1,0 +1,8 @@
+
+mainControl:
+In order for the executable mainControl to ba made ncurses must be installed on the computer.
+write in the terminal:
+sudo apt-get update
+sudo apt-get install ncurses-dev
+
+if ncurses.h is not found.

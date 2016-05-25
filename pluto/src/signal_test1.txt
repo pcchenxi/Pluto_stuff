@@ -1,0 +1,2989 @@
+tail:  ['\x08', 'f']
+posbytes:  ['+', '\xe3', '\xcd', '<']
+join:  '+\xe3\xcd<'
+unpack:  (0.025132736191153526,)
+pos:  0.0251327361912
+tail:  ['\x08', 'f']
+posbytes:  ['v', ')', 'k', '<']
+join:  'v)k<'
+unpack:  (0.014353146776556969,)
+pos:  0.0143531467766
+tail:  ['\x08', 'f']
+posbytes:  ['s', '\xab', '\xa4', '7']
+join:  's\xab\xa47'
+unpack:  (1.9630160750239156e-05,)
+pos:  1.96301607502e-05
+tail:  ['\x08', 'f']
+posbytes:  ['s', '\xab', '\xa4', '7']
+join:  's\xab\xa47'
+unpack:  (1.9630160750239156e-05,)
+pos:  1.96301607502e-05
+tail:  ['\x08', 'f']
+posbytes:  ['s', '\xab', '\xa4', '7']
+join:  's\xab\xa47'
+unpack:  (1.9630160750239156e-05,)
+pos:  1.96301607502e-05
+tail:  ['\x08', 'f']
+posbytes:  ['s', '\xab', '\xa4', '7']
+join:  's\xab\xa47'
+unpack:  (1.9630160750239156e-05,)
+pos:  1.96301607502e-05
+tail:  ['\x08', 'f']
+posbytes:  ['s', '\xab', '\xa4', '7']
+join:  's\xab\xa47'
+unpack:  (1.9630160750239156e-05,)
+pos:  1.96301607502e-05
+tail:  ['\x08', 'f']
+posbytes:  ['s', '\xab', '\xa4', '7']
+join:  's\xab\xa47'
+unpack:  (1.9630160750239156e-05,)
+pos:  1.96301607502e-05
+tail:  ['\x08', 'f']
+posbytes:  ['s', '\xab', '\xa4', '7']
+join:  's\xab\xa47'
+unpack:  (1.9630160750239156e-05,)
+pos:  1.96301607502e-05
+tail:  ['\x08', 'f']
+posbytes:  ['s', '\xab', '\xa4', '7']
+join:  's\xab\xa47'
+unpack:  (1.9630160750239156e-05,)
+pos:  1.96301607502e-05
+tail:  ['\x08', 'f']
+posbytes:  ['s', '\xab', '\xa4', '7']
+join:  's\xab\xa47'
+unpack:  (1.9630160750239156e-05,)
+pos:  1.96301607502e-05
+tail:  ['\x08', 'f']
+posbytes:  ['s', '\xab', '\xa4', '7']
+join:  's\xab\xa47'
+unpack:  (1.9630160750239156e-05,)
+pos:  1.96301607502e-05
+tail:  ['\x08', 'f']
+posbytes:  ['s', '\xab', '\xa4', '7']
+join:  's\xab\xa47'
+unpack:  (1.9630160750239156e-05,)
+pos:  1.96301607502e-05
+tail:  ['\x08', 'f']
+posbytes:  ['*', '\xc2', '\x9e', '<']
+join:  '*\xc2\x9e<'
+unpack:  (0.019379694014787674,)
+pos:  0.0193796940148
+tail:  ['\x08', 'f']
+posbytes:  ['1', '\x91', '\xe4', '<']
+join:  '1\x91\xe4<'
+unpack:  (0.027901263907551765,)
+pos:  0.0279012639076
+tail:  ['\x08', 'f']
+posbytes:  ['m', '\x82', '\x7f', '=']
+join:  'm\x82\x7f='
+unpack:  (0.062380243092775345,)
+pos:  0.0623802430928
+tail:  ['\x08', 'f']
+posbytes:  ['\x8f', 'I', '\x91', '=']
+join:  '\x8fI\x91='
+unpack:  (0.07094108313322067,)
+pos:  0.0709410831332
+tail:  ['\x08', 'f']
+posbytes:  ['\x15', '\xfb', '\xa2', '=']
+join:  '\x15\xfb\xa2='
+unpack:  (0.07958046346902847,)
+pos:  0.079580463469
+tail:  ['\x08', 'f']
+posbytes:  ['\xd7', 'n', '\xb4', '=']
+join:  '\xd7n\xb4='
+unpack:  (0.08810203522443771,)
+pos:  0.0881020352244
+tail:  ['\x08', 'f']
+posbytes:  ['0', '\xf7', '\xc5', '=']
+join:  '0\xf7\xc5='
+unpack:  (0.09666287899017334,)
+pos:  0.0966628789902
+tail:  ['\x08', 'f']
+posbytes:  ['\xb6', '\xa8', '\xd7', '=']
+join:  '\xb6\xa8\xd7='
+unpack:  (0.10530225932598114,)
+pos:  0.105302259326
+tail:  ['\x08', 'f']
+posbytes:  ['\x0e', '1', '\xe9', '=']
+join:  '\x0e1\xe9='
+unpack:  (0.11386309564113617,)
+pos:  0.113863095641
+tail:  ['\x08', 'f']
+posbytes:  ['\x94', '\xe2', '\xfa', '=']
+join:  '\x94\xe2\xfa='
+unpack:  (0.12250247597694397,)
+pos:  0.122502475977
+tail:  ['\x08', 'f']
+posbytes:  ['v', '5', '\x06', '>']
+join:  'v5\x06>'
+unpack:  (0.131063312292099,)
+pos:  0.131063312292
+tail:  ['\x08', 'f']
+posbytes:  ['\x14', '\t', '\x0f', '>']
+join:  '\x14\t\x0f>'
+unpack:  (0.1396830677986145,)
+pos:  0.139683067799
+tail:  ['\x08', 'f']
+posbytes:  ['@', '\xcd', '\x17', '>']
+join:  '@\xcd\x17>'
+unpack:  (0.14824390411376953,)
+pos:  0.148243904114
+tail:  ['\x08', 'f']
+posbytes:  ['\t', 'e', ')', '>']
+join:  '\te)>'
+unpack:  (0.16542448103427887,)
+pos:  0.165424481034
+tail:  ['\x08', 'f']
+posbytes:  ['\xd7', ';', '^', '>']
+join:  '\xd7;^>'
+unpack:  (0.21702514588832855,)
+pos:  0.217025145888
+tail:  ['\x08', 'f']
+posbytes:  ['\x9a', '\x14', 'g', '>']
+join:  '\x9a\x14g>'
+unpack:  (0.22566452622413635,)
+pos:  0.225664526224
+tail:  ['\x08', 'f']
+posbytes:  ['\xc6', '\xd8', 'o', '>']
+join:  '\xc6\xd8o>'
+unpack:  (0.23422536253929138,)
+pos:  0.234225362539
+tail:  ['\x08', 'f']
+posbytes:  ['c', '\xac', 'x', '>']
+join:  'c\xacx>'
+unpack:  (0.2428451031446457,)
+pos:  0.242845103145
+tail:  ['\x08', 'f']
+posbytes:  ['\xdb', '\xba', '\x80', '>']
+join:  '\xdb\xba\x80>'
+unpack:  (0.2514255940914154,)
+pos:  0.251425594091
+tail:  ['\x08', 'f']
+posbytes:  ['\xa9', '$', '\x85', '>']
+join:  '\xa9$\x85>'
+unpack:  (0.2600453197956085,)
+pos:  0.260045319796
+tail:  ['\x08', 'f']
+posbytes:  ['\xe5', '\x8b', '\x89', '>']
+join:  '\xe5\x8b\x89>'
+unpack:  (0.26864543557167053,)
+pos:  0.268645435572
+tail:  ['\x08', 'f']
+posbytes:  ['!', '\xf3', '\x8d', '>']
+join:  '!\xf3\x8d>'
+unpack:  (0.27724555134773254,)
+pos:  0.277245551348
+tail:  ['\x08', 'f']
+posbytes:  ['Y', '\x97', '\x99', '>']
+join:  'Y\x97\x99>'
+unpack:  (0.29998281598091125,)
+pos:  0.299982815981
+tail:  ['\x08', 'f']
+posbytes:  ['Y', '\x97', '\x99', '>']
+join:  'Y\x97\x99>'
+unpack:  (0.29998281598091125,)
+pos:  0.299982815981
+tail:  ['\x08', 'f']
+posbytes:  ['Y', '\x97', '\x99', '>']
+join:  'Y\x97\x99>'
+unpack:  (0.29998281598091125,)
+pos:  0.299982815981
+tail:  ['\x08', 'f']
+posbytes:  ['r', '\x12', '\x94', '>']
+join:  'r\x12\x94>'
+unpack:  (0.2892032265663147,)
+pos:  0.289203226566
+tail:  ['\x08', 'f']
+posbytes:  ['\\', '\xb0', '\x8f', '>']
+join:  '\\\xb0\x8f>'
+unpack:  (0.28064239025115967,)
+pos:  0.280642390251
+tail:  ['\x08', 'f']
+posbytes:  ['\xe5', '\xe1', '\x86', '>']
+join:  '\xe5\xe1\x86>'
+unpack:  (0.26344218850135803,)
+pos:  0.263442188501
+tail:  ['\x08', 'f']
+posbytes:  ['\x16', 'x', '\x82', '>']
+join:  '\x16x\x82>'
+unpack:  (0.25482243299484253,)
+pos:  0.254822432995
+tail:  ['\x08', 'f']
+posbytes:  ['\x00', ',', '|', '>']
+join:  '\x00,|>'
+unpack:  (0.2462615966796875,)
+pos:  0.24626159668
+tail:  ['\x08', 'f']
+posbytes:  ['=', 'S', 's', '>']
+join:  '=Ss>'
+unpack:  (0.2376222163438797,)
+pos:  0.237622216344
+tail:  ['\x08', 'f']
+posbytes:  ['6', '\x94', 'j', '>']
+join:  '6\x94j>'
+unpack:  (0.22908100485801697,)
+pos:  0.229081004858
+tail:  ['\x08', 'f']
+posbytes:  ['M', '\xb6', 'a', '>']
+join:  'M\xb6a>'
+unpack:  (0.22042198479175568,)
+pos:  0.220421984792
+tail:  ['\x08', 'f']
+posbytes:  ['G', '\xf7', 'X', '>']
+join:  'G\xf7X>'
+unpack:  (0.21188078820705414,)
+pos:  0.211880788207
+tail:  ['\x08', 'f']
+posbytes:  ['2', 'U', 'G', '>']
+join:  '2UG>'
+unpack:  (0.19466093182563782,)
+pos:  0.194660931826
+tail:  ['\x08', 'f']
+posbytes:  ['o', '|', '>', '>']
+join:  'o|>>'
+unpack:  (0.18602155148983002,)
+pos:  0.18602155149
+tail:  ['\x08', 'f']
+posbytes:  ['\xd2', '\xa8', '5', '>']
+join:  '\xd2\xa85>'
+unpack:  (0.1774018108844757,)
+pos:  0.177401810884
+tail:  ['\x08', 'f']
+posbytes:  ['\xa6', '\xe4', ',', '>']
+join:  '\xa6\xe4,>'
+unpack:  (0.16884097456932068,)
+pos:  0.168840974569
+tail:  ['\x08', 'f']
+posbytes:  ['\xe3', '\x0b', '$', '>']
+join:  '\xe3\x0b$>'
+unpack:  (0.16020159423351288,)
+pos:  0.160201594234
+tail:  ['\x08', 'f']
+posbytes:  ['\xdc', 'L', '\x1b', '>']
+join:  '\xdcL\x1b>'
+unpack:  (0.15166038274765015,)
+pos:  0.151660382748
+tail:  ['\x08', 'f']
+posbytes:  ['\x19', 't', '\x12', '>']
+join:  '\x19t\x12>'
+unpack:  (0.14302100241184235,)
+pos:  0.143021002412
+tail:  ['\x08', 'f']
+posbytes:  ['V', '\x9b', '\t', '>']
+join:  'V\x9b\t>'
+unpack:  (0.13438162207603455,)
+pos:  0.134381622076
+tail:  ['\x08', 'f']
+posbytes:  ['G', '0', '\xf0', '=']
+join:  'G0\xf0='
+unpack:  (0.11727958172559738,)
+pos:  0.117279581726
+tail:  ['\x08', 'f']
+posbytes:  ['u', 't', '\xde', '=']
+join:  'ut\xde='
+unpack:  (0.10862056165933609,)
+pos:  0.108620561659
+tail:  ['\x08', 'f']
+posbytes:  ['\xef', '\xc2', '\xcc', '=']
+join:  '\xef\xc2\xcc='
+unpack:  (0.09998118132352829,)
+pos:  0.0999811813235
+tail:  ['\x08', 'f']
+posbytes:  ['\xe2', 'D', '\xbb', '=']
+join:  '\xe2D\xbb='
+unpack:  (0.09143997728824615,)
+pos:  0.0914399772882
+tail:  ['\x08', 'f']
+posbytes:  ['\x03', '\x0b', '\x98', '=']
+join:  '\x03\x0b\x98='
+unpack:  (0.07423975318670273,)
+pos:  0.0742397531867
+tail:  ['\x08', 'f']
+posbytes:  ['\xc9', 'c', '\x86', '=']
+join:  '\xc9c\x86='
+unpack:  (0.06562001258134842,)
+pos:  0.0656200125813
+tail:  ['\x08', 'f']
+posbytes:  ['\xe1', '\xb6', 'i', '=']
+join:  '\xe1\xb6i='
+unpack:  (0.05705917254090309,)
+pos:  0.0570591725409
+tail:  ['\x08', 'f']
+posbytes:  ['\xd5', 'S', 'F', '=']
+join:  '\xd5SF='
+unpack:  (0.04841979220509529,)
+pos:  0.0484197922051
+tail:  ['\x08', 'f']
+posbytes:  ['\xbb', 'W', '#', '=']
+join:  '\xbbW#='
+unpack:  (0.039878588169813156,)
+pos:  0.0398785881698
+tail:  ['\x08', 'f']
+posbytes:  ['0', '\xc0', '\xff', '<']
+join:  '0\xc0\xff<'
+unpack:  (0.031219571828842163,)
+pos:  0.0312195718288
+tail:  ['\x08', 'f']
+posbytes:  [')', '\xf1', '\xb9', '<']
+join:  ')\xf1\xb9<'
+unpack:  (0.02269800193607807,)
+pos:  0.0226980019361
+tail:  ['\x08', 'f']
+posbytes:  ['#', 'V', 'f', '<']
+join:  '#Vf<'
+unpack:  (0.014058622531592846,)
+pos:  0.0140586225316
+tail:  ['\x08', 'f']
+posbytes:  ['s', '\xcb', '\xb4', ';']
+join:  's\xcb\xb4;'
+unpack:  (0.005517417099326849,)
+pos:  0.00551741709933
+tail:  ['\x08', 'f']
+posbytes:  ['\xd7', '\x99', 'L', '\xbb']
+join:  '\xd7\x99L\xbb'
+unpack:  (-0.0031219625379890203,)
+pos:  -0.00312196253799
+tail:  ['\x08', 'f']
+posbytes:  ['9', 'i', '?', '\xbc']
+join:  '9i?\xbc'
+unpack:  (-0.011682801879942417,)
+pos:  -0.0116828018799
+tail:  ['\x08', 'f']
+posbytes:  ['\xb4', 'z', '\xa6', '\xbc']
+join:  '\xb4z\xa6\xbc'
+unpack:  (-0.020322181284427643,)
+pos:  -0.0203221812844
+tail:  ['\x08', 'f']
+posbytes:  ['\x16', '\x9c', '\xec', '\xbc']
+join:  '\x16\x9c\xec\xbc'
+unpack:  (-0.02888302132487297,)
+pos:  -0.0288830213249
+tail:  ['\x08', 'f']
+posbytes:  ['\x80', '\x9c', '\x19', '\xbd']
+join:  '\x80\x9c\x19\xbd'
+unpack:  (-0.03750276565551758,)
+pos:  -0.0375027656555
+tail:  ['\x08', 'f']
+posbytes:  ['1', '\xad', '<', '\xbd']
+join:  '1\xad<\xbd'
+unpack:  (-0.046063605695962906,)
+pos:  -0.046063605696
+tail:  ['\x08', 'f']
+posbytes:  ['=', '\x90', '`', '\xbd']
+join:  '=\x90`\xbd'
+unpack:  (-0.054825056344270706,)
+pos:  -0.0548250563443
+tail:  ['\x08', 'f']
+posbytes:  ['w', '\x90', '\x81', '\xbd']
+join:  'w\x90\x81\xbd'
+unpack:  (-0.06326382607221603,)
+pos:  -0.0632638260722
+tail:  ['\x08', 'f']
+posbytes:  ['\xfd', 'A', '\x93', '\xbd']
+join:  '\xfdA\x93\xbd'
+unpack:  (-0.07190320640802383,)
+pos:  -0.071903206408
+tail:  ['\x08', 'f']
+posbytes:  ['\x0b', '\xc0', '\xa4', '\xbd']
+join:  '\x0b\xc0\xa4\xbd'
+unpack:  (-0.08044441789388657,)
+pos:  -0.0804444178939
+tail:  ['\x08', 'f']
+posbytes:  ['\xdc', '{', '\xb6', '\xbd']
+join:  '\xdc{\xb6\xbd'
+unpack:  (-0.08910343050956726,)
+pos:  -0.0891034305096
+tail:  ['\x08', 'f']
+posbytes:  ['\xe9', '\xf9', '\xc7', '\xbd']
+join:  '\xe9\xf9\xc7\xbd'
+unpack:  (-0.0976446345448494,)
+pos:  -0.0976446345448
+tail:  ['\x08', 'f']
+posbytes:  ['o', '\xab', '\xd9', '\xbd']
+join:  'o\xab\xd9\xbd'
+unpack:  (-0.1062840148806572,)
+pos:  -0.106284014881
+tail:  ['\x08', 'f']
+posbytes:  ['\xc7', '3', '\xeb', '\xbd']
+join:  '\xc73\xeb\xbd'
+unpack:  (-0.11484485119581223,)
+pos:  -0.114844851196
+tail:  ['\x08', 'f']
+posbytes:  ['M', '\xe5', '\xfc', '\xbd']
+join:  'M\xe5\xfc\xbd'
+unpack:  (-0.12348423153162003,)
+pos:  -0.123484231532
+tail:  ['\x08', 'f']
+posbytes:  ['\xad', '1', '\x07', '\xbe']
+join:  '\xad1\x07\xbe'
+unpack:  (-0.13202543556690216,)
+pos:  -0.132025435567
+tail:  ['\x08', 'f']
+posbytes:  ['p', '\n', '\x90', '\xbe']
+join:  'p\n\x90\xbe'
+unpack:  (-0.2813296318054199,)
+pos:  -0.281329631805
+tail:  ['\x08', 'f']
+posbytes:  ['\xc2', '\xd3', '\x18', '\xbe']
+join:  '\xc2\xd3\x18\xbe'
+unpack:  (-0.14924529194831848,)
+pos:  -0.149245291948
+tail:  ['\x08', 'f']
+posbytes:  ['_', '\xa7', '!', '\xbe']
+join:  '_\xa7!\xbe'
+unpack:  (-0.1578650325536728,)
+pos:  -0.157865032554
+tail:  ['\x08', 'f']
+posbytes:  ['\x8c', 'k', '*', '\xbe']
+join:  '\x8ck*\xbe'
+unpack:  (-0.166425883769989,)
+pos:  -0.16642588377
+tail:  ['\x08', 'f']
+posbytes:  ['O', 'D', '3', '\xbe']
+join:  'OD3\xbe'
+unpack:  (-0.17506526410579681,)
+pos:  -0.175065264106
+tail:  ['\x08', 'f']
+posbytes:  ['{', '\x08', '<', '\xbe']
+join:  '{\x08<\xbe'
+unpack:  (-0.18362610042095184,)
+pos:  -0.183626100421
+tail:  ['\x08', 'f']
+posbytes:  ['\x82', '\xc7', 'D', '\xbe']
+join:  '\x82\xc7D\xbe'
+unpack:  (-0.19216731190681458,)
+pos:  -0.192167311907
+tail:  ['\x08', 'f']
+posbytes:  ['E', '\xa0', 'M', '\xbe']
+join:  'E\xa0M\xbe'
+unpack:  (-0.20080669224262238,)
+pos:  -0.200806692243
+tail:  ['\x08', 'f']
+posbytes:  ['q', 'd', 'V', '\xbe']
+join:  'qdV\xbe'
+unpack:  (-0.2093675285577774,)
+pos:  -0.209367528558
+tail:  ['\x08', 'f']
+posbytes:  ['\x0e', '8', '_', '\xbe']
+join:  '\x0e8_\xbe'
+unpack:  (-0.2179872691631317,)
+pos:  -0.217987269163
+tail:  ['\x08', 'f']
+posbytes:  ['`', '\x01', 'h', '\xbe']
+join:  '`\x01h\xbe'
+unpack:  (-0.22656774520874023,)
+pos:  -0.226567745209
+tail:  ['\x08', 'f']
+posbytes:  ['#', '\xda', 'p', '\xbe']
+join:  '#\xdap\xbe'
+unpack:  (-0.23520712554454803,)
+pos:  -0.235207125545
+tail:  ['\x08', 'f']
+posbytes:  ['*', '\x99', 'y', '\xbe']
+join:  '*\x99y\xbe'
+unpack:  (-0.24374833703041077,)
+pos:  -0.24374833703
+tail:  ['\x08', 'f']
+posbytes:  ['\xf6', '8', '\x81', '\xbe']
+join:  '\xf68\x81\xbe'
+unpack:  (-0.2523877024650574,)
+pos:  -0.252387702465
+tail:  ['\x08', 'f']
+posbytes:  ['\r', '\x9b', '\x85', '\xbe']
+join:  '\r\x9b\x85\xbe'
+unpack:  (-0.2609485685825348,)
+pos:  -0.260948568583
+tail:  ['\x08', 'f']
+posbytes:  ['\x01', '\n', '\x8a', '\xbe']
+join:  '\x01\n\x8a\xbe'
+unpack:  (-0.2696075737476349,)
+pos:  -0.269607573748
+tail:  ['\x08', 'f']
+posbytes:  ['\xf1', 'f', '\x8e', '\xbe']
+join:  '\xf1f\x8e\xbe'
+unpack:  (-0.27812913060188293,)
+pos:  -0.278129130602
+tail:  ['\x08', 'f']
+posbytes:  ['\xe6', '\xd5', '\x92', '\xbe']
+join:  '\xe6\xd5\x92\xbe'
+unpack:  (-0.2867881655693054,)
+pos:  -0.286788165569
+tail:  ['\x08', 'f']
+posbytes:  ['i', '5', '\x97', '\xbe']
+join:  'i5\x97\xbe'
+unpack:  (-0.29532936215400696,)
+pos:  -0.295329362154
+tail:  ['\x08', 'f']
+posbytes:  [']', '\xa4', '\x9b', '\xbe']
+join:  ']\xa4\x9b\xbe'
+unpack:  (-0.30398836731910706,)
+pos:  -0.303988367319
+tail:  ['\x08', 'f']
+posbytes:  ['\xe0', '\x03', '\xa0', '\xbe']
+join:  '\xe0\x03\xa0\xbe'
+unpack:  (-0.3125295639038086,)
+pos:  -0.312529563904
+tail:  ['\x08', 'f']
+posbytes:  ['\xf7', 'e', '\xa4', '\xbe']
+join:  '\xf7e\xa4\xbe'
+unpack:  (-0.321090430021286,)
+pos:  -0.321090430021
+tail:  ['\x08', 'f']
+posbytes:  ['\xc6', '\xcf', '\xa8', '\xbe']
+join:  '\xc6\xcf\xa8\xbe'
+unpack:  (-0.3297101855278015,)
+pos:  -0.329710185528
+tail:  ['\x08', 'f']
+posbytes:  ['\xdc', '1', '\xad', '\xbe']
+join:  '\xdc1\xad\xbe'
+unpack:  (-0.33827102184295654,)
+pos:  -0.338271021843
+tail:  ['\x08', 'f']
+posbytes:  ['\xd0', '\xa0', '\xb1', '\xbe']
+join:  '\xd0\xa0\xb1\xbe'
+unpack:  (-0.34693002700805664,)
+pos:  -0.346930027008
+tail:  ['\x08', 'f']
+posbytes:  ['T', '\x00', '\xb6', '\xbe']
+join:  'T\x00\xb6\xbe'
+unpack:  (-0.35547125339508057,)
+pos:  -0.355471253395
+tail:  ['\x08', 'f']
+posbytes:  ['\xb5', 'l', '\xba', '\xbe']
+join:  '\xb5l\xba\xbe'
+unpack:  (-0.3641106188297272,)
+pos:  -0.36411061883
+tail:  ['\x08', 'f']
+posbytes:  ['8', '\xcc', '\xbe', '\xbe']
+join:  '8\xcc\xbe\xbe'
+unpack:  (-0.3726518154144287,)
+pos:  -0.372651815414
+tail:  ['\x08', 'f']
+posbytes:  ['-', ';', '\xc3', '\xbe']
+join:  '-;\xc3\xbe'
+unpack:  (-0.3813108503818512,)
+pos:  -0.381310850382
+tail:  ['\x08', 'f']
+posbytes:  ['C', '\x9d', '\xc7', '\xbe']
+join:  'C\x9d\xc7\xbe'
+unpack:  (-0.3898716866970062,)
+pos:  -0.389871686697
+tail:  ['\x08', 'f']
+posbytes:  ['Y', '\xff', '\xcb', '\xbe']
+join:  'Y\xff\xcb\xbe'
+unpack:  (-0.39843252301216125,)
+pos:  -0.398432523012
+tail:  ['\x08', 'f']
+posbytes:  ['\xba', 'k', '\xd0', '\xbe']
+join:  '\xbak\xd0\xbe'
+unpack:  (-0.40707188844680786,)
+pos:  -0.407071888447
+tail:  ['\x08', 'f']
+posbytes:  ['\xd1', '\xcd', '\xd4', '\xbe']
+join:  '\xd1\xcd\xd4\xbe'
+unpack:  (-0.4156327545642853,)
+pos:  -0.415632754564
+tail:  ['\x08', 'f']
+posbytes:  ['2', ':', '\xd9', '\xbe']
+join:  '2:\xd9\xbe'
+unpack:  (-0.4242721199989319,)
+pos:  -0.424272119999
+tail:  ['\x08', 'f']
+posbytes:  ['"', '\x97', '\xdd', '\xbe']
+join:  '"\x97\xdd\xbe'
+unpack:  (-0.43279367685317993,)
+pos:  -0.432793676853
+tail:  ['\x08', 'f']
+posbytes:  ['\x17', '\x06', '\xe2', '\xbe']
+join:  '\x17\x06\xe2\xbe'
+unpack:  (-0.4414527118206024,)
+pos:  -0.441452711821
+tail:  ['\x08', 'f']
+posbytes:  ['\x9a', 'e', '\xe6', '\xbe']
+join:  '\x9ae\xe6\xbe'
+unpack:  (-0.44999390840530396,)
+pos:  -0.449993908405
+tail:  ['\x08', 'f']
+posbytes:  ['\x8e', '\xd4', '\xea', '\xbe']
+join:  '\x8e\xd4\xea\xbe'
+unpack:  (-0.45865291357040405,)
+pos:  -0.45865291357
+tail:  ['\x08', 'f']
+posbytes:  ['(', '\x96', '\xf3', '\xbe']
+join:  '(\x96\xf3\xbe'
+unpack:  (-0.475754976272583,)
+pos:  -0.475754976273
+tail:  ['\x08', 'f']
+posbytes:  ['\x0c', 'b', '\xfc', '\xbe']
+join:  '\x0cb\xfc\xbe'
+unpack:  (-0.49293553829193115,)
+pos:  -0.492935538292
+tail:  ['\x08', 'f']
+posbytes:  ['\xf9', '\x96', '\x02', '\xbf']
+join:  '\xf9\x96\x02\xbf'
+unpack:  (-0.5101161599159241,)
+pos:  -0.510116159916
+tail:  ['\x08', 'f']
+posbytes:  ['s', '\xce', '\x04', '\xbf']
+join:  's\xce\x04\xbf'
+unpack:  (-0.5187751650810242,)
+pos:  -0.518775165081
+tail:  ['\x08', 'f']
+posbytes:  ['~', '\xff', '\x06', '\xbf']
+join:  '~\xff\x06\xbf'
+unpack:  (-0.5273360013961792,)
+pos:  -0.527336001396
+tail:  ['\x08', 'f']
+posbytes:  ['\x89', '0', '\t', '\xbf']
+join:  '\x890\t\xbf'
+unpack:  (-0.5358968377113342,)
+pos:  -0.535896837711
+tail:  ['\x08', 'f']
+posbytes:  ['\xba', 'f', '\x0b', '\xbf']
+join:  '\xbaf\x0b\xbf'
+unpack:  (-0.5445362329483032,)
+pos:  -0.544536232948
+tail:  ['\x08', 'f']
+posbytes:  ['\xea', '\x9c', '\r', '\xbf']
+join:  '\xea\x9c\r\xbf'
+unpack:  (-0.5531755685806274,)
+pos:  -0.553175568581
+tail:  ['\x08', 'f']
+posbytes:  ['?', '\xcf', '\x0f', '\xbf']
+join:  '?\xcf\x0f\xbf'
+unpack:  (-0.5617560744285583,)
+pos:  -0.561756074429
+tail:  ['\x08', 'f']
+posbytes:  ['n', '\xfc', '\x11', '\xbf']
+join:  'n\xfc\x11\xbf'
+unpack:  (-0.5702580213546753,)
+pos:  -0.570258021355
+tail:  ['\x08', 'f']
+posbytes:  ['\xe8', '3', '\x14', '\xbf']
+join:  '\xe83\x14\xbf'
+unpack:  (-0.5789170265197754,)
+pos:  -0.57891702652
+tail:  ['\x08', 'f']
+posbytes:  ['\xf3', 'd', '\x16', '\xbf']
+join:  '\xf3d\x16\xbf'
+unpack:  (-0.5874778628349304,)
+pos:  -0.587477862835
+tail:  ['\x08', 'f']
+posbytes:  ['\x90', '\x96', '\x19', '\xbf']
+join:  '\x90\x96\x19\xbf'
+unpack:  (-0.5999536514282227,)
+pos:  -0.599953651428
+tail:  ['\x08', 'f']
+posbytes:  ['\xa3', '\x98', '\x19', '\xbf']
+join:  '\xa3\x98\x19\xbf'
+unpack:  (-0.5999853014945984,)
+pos:  -0.599985301495
+tail:  ['\x08', 'f']
+posbytes:  ['\xa3', '\x98', '\x19', '\xbf']
+join:  '\xa3\x98\x19\xbf'
+unpack:  (-0.5999853014945984,)
+pos:  -0.599985301495
+tail:  ['\x08', 'f']
+posbytes:  ['\xa3', '\x98', '\x19', '\xbf']
+join:  '\xa3\x98\x19\xbf'
+unpack:  (-0.5999853014945984,)
+pos:  -0.599985301495
+tail:  ['\x08', 'f']
+posbytes:  ['\xa3', '\x98', '\x19', '\xbf']
+join:  '\xa3\x98\x19\xbf'
+unpack:  (-0.5999853014945984,)
+pos:  -0.599985301495
+tail:  ['\x08', 'f']
+posbytes:  ['\xa3', '\x98', '\x19', '\xbf']
+join:  '\xa3\x98\x19\xbf'
+unpack:  (-0.5999853014945984,)
+pos:  -0.599985301495
+tail:  ['\x08', 'f']
+posbytes:  ['\xa3', '\x98', '\x19', '\xbf']
+join:  '\xa3\x98\x19\xbf'
+unpack:  (-0.5999853014945984,)
+pos:  -0.599985301495
+tail:  ['\x08', 'f']
+posbytes:  ['\xa3', '\x98', '\x19', '\xbf']
+join:  '\xa3\x98\x19\xbf'
+unpack:  (-0.5999853014945984,)
+pos:  -0.599985301495
+tail:  ['\x08', 'f']
+posbytes:  ['\xa3', '\x98', '\x19', '\xbf']
+join:  '\xa3\x98\x19\xbf'
+unpack:  (-0.5999853014945984,)
+pos:  -0.599985301495
+tail:  ['\x08', 'f']
+posbytes:  ['\xa3', '\x98', '\x19', '\xbf']
+join:  '\xa3\x98\x19\xbf'
+unpack:  (-0.5999853014945984,)
+pos:  -0.599985301495
+tail:  ['\x08', 'f']
+posbytes:  ['\xa3', '\x98', '\x19', '\xbf']
+join:  '\xa3\x98\x19\xbf'
+unpack:  (-0.5999853014945984,)
+pos:  -0.599985301495
+tail:  ['\x08', 'f']
+posbytes:  ['\xa3', '\x98', '\x19', '\xbf']
+join:  '\xa3\x98\x19\xbf'
+unpack:  (-0.5999853014945984,)
+pos:  -0.599985301495
+tail:  ['\x08', 'f']
+posbytes:  ['\xa3', '\x98', '\x19', '\xbf']
+join:  '\xa3\x98\x19\xbf'
+unpack:  (-0.5999853014945984,)
+pos:  -0.599985301495
+tail:  ['\x08', 'f']
+posbytes:  ['\xa3', '\x98', '\x19', '\xbf']
+join:  '\xa3\x98\x19\xbf'
+unpack:  (-0.5999853014945984,)
+pos:  -0.599985301495
+tail:  ['\x08', 'f']
+posbytes:  ['\xa3', '\x98', '\x19', '\xbf']
+join:  '\xa3\x98\x19\xbf'
+unpack:  (-0.5999853014945984,)
+pos:  -0.599985301495
+tail:  ['\x08', 'f']
+posbytes:  ['V', '\xdb', '\x16', '\xbf']
+join:  'V\xdb\x16\xbf'
+unpack:  (-0.5892843008041382,)
+pos:  -0.589284300804
+tail:  ['\x08', 'f']
+posbytes:  ['\xd0', 'r', '\x12', '\xbf']
+join:  '\xd0r\x12\xbf'
+unpack:  (-0.5720643997192383,)
+pos:  -0.572064399719
+tail:  ['\x08', 'f']
+posbytes:  ['|', '@', '\x90', '\xbf']
+join:  '|@\x90\xbf'
+unpack:  (-1.1269679069519043,)
+pos:  -1.12696790695
+tail:  ['\x08', 'f']
+posbytes:  ['\x02', '\t', '\x0e', '\xbf']
+join:  '\x02\t\x0e\xbf'
+unpack:  (-0.554824948310852,)
+pos:  -0.554824948311
+tail:  ['\x08', 'f']
+posbytes:  ['\xf7', '\xd7', '\x0b', '\xbf']
+join:  '\xf7\xd7\x0b\xbf'
+unpack:  (-0.546264111995697,)
+pos:  -0.546264111996
+tail:  ['\x08', 'f']
+posbytes:  ['\xc6', '\xa1', '\t', '\xbf']
+join:  '\xc6\xa1\t\xbf'
+unpack:  (-0.537624716758728,)
+pos:  -0.537624716759
+tail:  ['\x08', 'f']
+posbytes:  ['\x95', 'k', '\x07', '\xbf']
+join:  '\x95k\x07\xbf'
+unpack:  (-0.528985321521759,)
+pos:  -0.528985321522
+tail:  ['\x08', 'f']
+posbytes:  ['\xa3', '\x05', '\x03', '\xbf']
+join:  '\xa3\x05\x03\xbf'
+unpack:  (-0.5118047595024109,)
+pos:  -0.511804759502
+tail:  ['\x08', 'f']
+posbytes:  ['r', '\xcf', '\x00', '\xbf']
+join:  'r\xcf\x00\xbf'
+unpack:  (-0.5031653642654419,)
+pos:  -0.503165364265
+tail:  ['\x08', 'f']
+posbytes:  ['V', 'n', '\xf4', '\xbe']
+join:  'Vn\xf4\xbe'
+unpack:  (-0.47740429639816284,)
+pos:  -0.477404296398
+tail:  ['\x08', 'f']
+posbytes:  ['\x88', '\x04', '\xf0', '\xbe']
+join:  '\x88\x04\xf0\xbe'
+unpack:  (-0.4687845706939697,)
+pos:  -0.468784570694
+tail:  ['\x08', 'f']
+posbytes:  ['\xb9', '\x9a', '\xeb', '\xbe']
+join:  '\xb9\x9a\xeb\xbe'
+unpack:  (-0.4601648151874542,)
+pos:  -0.460164815187
+tail:  ['\x08', 'f']
+posbytes:  ['\xc5', '+', '\xe7', '\xbe']
+join:  '\xc5+\xe7\xbe'
+unpack:  (-0.4515058100223541,)
+pos:  -0.451505810022
+tail:  ['\x08', 'f']
+posbytes:  ['\xd4', '\xce', '\xe2', '\xbe']
+join:  '\xd4\xce\xe2\xbe'
+unpack:  (-0.4429842233657837,)
+pos:  -0.442984223366
+tail:  ['\x08', 'f']
+posbytes:  ['s', 'b', '\xde', '\xbe']
+join:  'sb\xde\xbe'
+unpack:  (-0.4343448579311371,)
+pos:  -0.434344857931
+tail:  ['\x08', 'f']
+posbytes:  ['x', '4', '\xd1', '\xbe']
+join:  'x4\xd1\xbe'
+unpack:  (-0.4086034297943115,)
+pos:  -0.408603429794
+tail:  ['\x08', 'f']
+posbytes:  ['\x16', '\xc8', '\xcc', '\xbe']
+join:  '\x16\xc8\xcc\xbe'
+unpack:  (-0.39996403455734253,)
+pos:  -0.399964034557
+tail:  ['\x08', 'f']
+posbytes:  ['\x00', 'f', '\xc8', '\xbe']
+join:  '\x00f\xc8\xbe'
+unpack:  (-0.3914031982421875,)
+pos:  -0.391403198242
+tail:  ['\x08', 'f']
+posbytes:  ['\x9f', '\xf9', '\xc3', '\xbe']
+join:  '\x9f\xf9\xc3\xbe'
+unpack:  (-0.3827638328075409,)
+pos:  -0.382763832808
+tail:  ['\x08', 'f']
+posbytes:  ['=', '\x8d', '\xbf', '\xbe']
+join:  '=\x8d\xbf\xbe'
+unpack:  (-0.3741244375705719,)
+pos:  -0.374124437571
+tail:  ['\x08', 'f']
+posbytes:  ['\xba', '-', '\xbb', '\xbe']
+join:  '\xba-\xbb\xbe'
+unpack:  (-0.36558324098587036,)
+pos:  -0.365583240986
+tail:  ['\x08', 'f']
+posbytes:  ['\xd5', 'a', '\xb2', '\xbe']
+join:  '\xd5a\xb2\xbe'
+unpack:  (-0.34840264916419983,)
+pos:  -0.348402649164
+tail:  ['\x08', 'f']
+posbytes:  ['\xe1', '\xf2', '\xad', '\xbe']
+join:  '\xe1\xf2\xad\xbe'
+unpack:  (-0.33974364399909973,)
+pos:  -0.339743643999
+tail:  ['\x08', 'f']
+posbytes:  ['^', '\x93', '\xa9', '\xbe']
+join:  '^\x93\xa9\xbe'
+unpack:  (-0.3312024474143982,)
+pos:  -0.331202447414
+tail:  ['\x08', 'f']
+posbytes:  ['\xfc', '&', '\xa5', '\xbe']
+join:  '\xfc&\xa5\xbe'
+unpack:  (-0.3225630521774292,)
+pos:  -0.322563052177
+tail:  ['\x08', 'f']
+posbytes:  ['x', '\xc7', '\xa0', '\xbe']
+join:  'x\xc7\xa0\xbe'
+unpack:  (-0.3140218257904053,)
+pos:  -0.31402182579
+tail:  ['\x08', 'f']
+posbytes:  ['\x17', '[', '\x9c', '\xbe']
+join:  '\x17[\x9c\xbe'
+unpack:  (-0.30538246035575867,)
+pos:  -0.305382460356
+tail:  ['\x08', 'f']
+posbytes:  ['\xb5', '\xee', '\x97', '\xbe']
+join:  '\xb5\xee\x97\xbe'
+unpack:  (-0.2967430651187897,)
+pos:  -0.296743065119
+tail:  ['\x08', 'f']
+posbytes:  ['2', '\x8f', '\x93', '\xbe']
+join:  '2\x8f\x93\xbe'
+unpack:  (-0.28820186853408813,)
+pos:  -0.288201868534
+tail:  ['\x08', 'f']
+posbytes:  ['\xd1', '"', '\x8f', '\xbe']
+join:  '\xd1"\x8f\xbe'
+unpack:  (-0.27956250309944153,)
+pos:  -0.279562503099
+tail:  ['\x08', 'f']
+posbytes:  ['\xec', 'V', '\x86', '\xbe']
+join:  '\xecV\x86\xbe'
+unpack:  (-0.262381911277771,)
+pos:  -0.262381911278
+tail:  ['\x08', 'f']
+posbytes:  ['\xe8', '\x90', '{', '\xbe']
+join:  '\xe8\x90{\xbe'
+unpack:  (-0.24566996097564697,)
+pos:  -0.245669960976
+tail:  ['\x08', 'f']
+posbytes:  ['\xbc', 'L', 'r', '\xbe']
+join:  '\xbcLr\xbe'
+unpack:  (-0.23662084341049194,)
+pos:  -0.23662084341
+tail:  ['\x08', 'f']
+posbytes:  ['\x1f', 'y', 'i', '\xbe']
+join:  '\x1fyi\xbe'
+unpack:  (-0.22800110280513763,)
+pos:  -0.228001102805
+tail:  ['\x08', 'f']
+posbytes:  ['\xde', '\x12', 'O', '\xbe']
+join:  '\xde\x12O\xbe'
+unpack:  (-0.20222041010856628,)
+pos:  -0.202220410109
+tail:  ['\x08', 'f']
+posbytes:  ['A', '?', 'F', '\xbe']
+join:  'A?F\xbe'
+unpack:  (-0.19360066950321198,)
+pos:  -0.193600669503
+tail:  ['\x08', 'f']
+posbytes:  ['\x14', '{', '=', '\xbe']
+join:  '\x14{=\xbe'
+unpack:  (-0.18503981828689575,)
+pos:  -0.185039818287
+tail:  ['\x08', 'f']
+posbytes:  ['Q', '\xa2', '4', '\xbe']
+join:  'Q\xa24\xbe'
+unpack:  (-0.17640043795108795,)
+pos:  -0.176400437951
+tail:  ['\x08', 'f']
+posbytes:  ['\xb4', '\xce', '+', '\xbe']
+join:  '\xb4\xce+\xbe'
+unpack:  (-0.16778069734573364,)
+pos:  -0.167780697346
+tail:  ['\x08', 'f']
+posbytes:  ['b', '\x05', '#', '\xbe']
+join:  'b\x05#\xbe'
+unpack:  (-0.15920022130012512,)
+pos:  -0.1592002213
+tail:  ['\x08', 'f']
+posbytes:  ['\xc4', '1', '\x1a', '\xbe']
+join:  '\xc41\x1a\xbe'
+unpack:  (-0.15058046579360962,)
+pos:  -0.150580465794
+tail:  ['\x08', 'f']
+posbytes:  ['\xfb', '\x99', '\x08', '\xbe']
+join:  '\xfb\x99\x08\xbe'
+unpack:  (-0.13339988887310028,)
+pos:  -0.133399888873
+tail:  ['\x08', 'f']
+posbytes:  ['\x9d', '\xab', '\xff', '\xbd']
+join:  '\x9d\xab\xff\xbd'
+unpack:  (-0.12483904510736465,)
+pos:  -0.124839045107
+tail:  ['\x08', 'f']
+posbytes:  ['\x17', '\xfa', '\xed', '\xbd']
+join:  '\x17\xfa\xed\xbd'
+unpack:  (-0.11619966477155685,)
+pos:  -0.116199664772
+tail:  ['\x08', 'f']
+posbytes:  ['\xbf', 'q', '\xdc', '\xbd']
+join:  '\xbfq\xdc\xbd'
+unpack:  (-0.10763882845640182,)
+pos:  -0.107638828456
+tail:  ['\x08', 'f']
+posbytes:  ['9', '\xc0', '\xca', '\xbd']
+join:  '9\xc0\xca\xbd'
+unpack:  (-0.09899944812059402,)
+pos:  -0.0989994481206
+tail:  ['\x08', 'f']
+posbytes:  ['\xb3', '\x0e', '\xb9', '\xbd']
+join:  '\xb3\x0e\xb9\xbd'
+unpack:  (-0.09036006778478622,)
+pos:  -0.0903600677848
+tail:  ['\x08', 'f']
+posbytes:  ['\xd4', '\xd4', '\x95', '\xbd']
+join:  '\xd4\xd4\x95\xbd'
+unpack:  (-0.0731598436832428,)
+pos:  -0.0731598436832
+tail:  ['\x08', 'f']
+posbytes:  ['{', 'L', '\x84', '\xbd']
+join:  '{L\x84\xbd'
+unpack:  (-0.06459899991750717,)
+pos:  -0.0645989999175
+tail:  ['\x08', 'f']
+posbytes:  ['\xd1', '9', 'B', '\xbd']
+join:  '\xd19B\xbd'
+unpack:  (-0.047418419271707535,)
+pos:  -0.0474184192717
+tail:  ['\x08', 'f']
+posbytes:  ['\xc5', '\xd6', '\x1e', '\xbd']
+join:  '\xc5\xd6\x1e\xbd'
+unpack:  (-0.038779038935899734,)
+pos:  -0.0387790389359
+tail:  ['\x08', 'f']
+posbytes:  ['\xa0', '\x90', '\xf7', '\xbc']
+join:  '\xa0\x90\xf7\xbc'
+unpack:  (-0.030220329761505127,)
+pos:  -0.0302203297615
+tail:  ['\x08', 'f']
+posbytes:  ['>', '\xef', '\xb0', '\xbc']
+join:  '>\xef\xb0\xbc'
+unpack:  (-0.0215984545648098,)
+pos:  -0.0215984545648
+tail:  ['\x08', 'f']
+posbytes:  ['L', 'R', 'T', '\xbc']
+join:  'LRT\xbc'
+unpack:  (-0.012959074229001999,)
+pos:  -0.012959074229
+tail:  ['\x08', 'f']
+posbytes:  ['\xc6', '\xc3', '\x90', '\xbb']
+join:  '\xc6\xc3\x90\xbb'
+unpack:  (-0.004417869262397289,)
+pos:  -0.0044178692624
+tail:  ['\x08', 'f']
+posbytes:  ['N', '\xf9', '\x8a', ';']
+join:  'N\xf9\x8a;'
+unpack:  (0.0042411452159285545,)
+pos:  0.00424114521593
+tail:  ['\x08', 'f']
+posbytes:  ['\x90', 'm', 'Q', '<']
+join:  '\x90mQ<'
+unpack:  (0.012782469391822815,)
+pos:  0.0127824693918
+tail:  ['\x08', 'f']
+posbytes:  ['\xa0', '|', '\xaf', '<']
+join:  '\xa0|\xaf<'
+unpack:  (0.021421730518341064,)
+pos:  0.0214217305183
+tail:  ['\x08', 'f']
+posbytes:  ['\xa7', 'K', '\xf5', '<']
+join:  '\xa7K\xf5<'
+unpack:  (0.029943300411105156,)
+pos:  0.0299433004111
+tail:  ['\x08', 'f']
+posbytes:  ['\xdf', '\x08', '\x1e', '=']
+join:  '\xdf\x08\x1e='
+unpack:  (0.03858267888426781,)
+pos:  0.0385826788843
+tail:  ['\x08', 'f']
+posbytes:  ['\x90', '\x19', 'A', '=']
+join:  '\x90\x19A='
+unpack:  (0.047143518924713135,)
+pos:  0.0471435189247
+tail:  ['\x08', 'f']
+posbytes:  ['3', '\x91', 'd', '=']
+join:  '3\x91d='
+unpack:  (0.05580253526568413,)
+pos:  0.0558025352657
+tail:  ['\x08', 'f']
+posbytes:  ['\xa6', '\xc6', '\x83', '=']
+join:  '\xa6\xc6\x83='
+unpack:  (0.06434373557567596,)
+pos:  0.0643437355757
+tail:  ['\x08', 'f']
+posbytes:  ['\xff', 'N', '\x95', '=']
+join:  '\xffN\x95='
+unpack:  (0.07290457934141159,)
+pos:  0.0729045793414
+tail:  ['\x08', 'f']
+posbytes:  [':', '\xf6', '\xa6', '=']
+join:  ':\xf6\xa6='
+unpack:  (0.0815243273973465,)
+pos:  0.0815243273973
+tail:  ['\x08', 'f']
+posbytes:  ['\x0b', '\xb2', '\xb8', '=']
+join:  '\x0b\xb2\xb8='
+unpack:  (0.09018334001302719,)
+pos:  0.090183340013
+tail:  ['\x08', 'f']
+posbytes:  ['\x18', '0', '\xca', '=']
+join:  '\x180\xca='
+unpack:  (0.09872454404830933,)
+pos:  0.0987245440483
+tail:  ['\x08', 'f']
+posbytes:  ['&', '\xae', '\xdb', '=']
+join:  '&\xae\xdb='
+unpack:  (0.10726575553417206,)
+pos:  0.107265755534
+tail:  ['\x08', 'f']
+posbytes:  ['\xac', '_', '\xed', '=']
+join:  '\xac_\xed='
+unpack:  (0.11590513586997986,)
+pos:  0.11590513587
+tail:  ['\x08', 'f']
+posbytes:  ['1', '\x11', '\xff', '=']
+join:  '1\x11\xff='
+unpack:  (0.12454450875520706,)
+pos:  0.124544508755
+tail:  ['\x08', 'f']
+posbytes:  ['\xf1', '\x90', '\x11', '>']
+join:  '\xf1\x90\x11>'
+unpack:  (0.14215447008609772,)
+pos:  0.142154470086
+tail:  ['\x08', 'f']
+posbytes:  ['\xbb', '\xa8', '"', '>']
+join:  '\xbb\xa8">'
+unpack:  (0.15884678065776825,)
+pos:  0.158846780658
+tail:  ['\x08', 'f']
+posbytes:  ['\xaa', 'E', '4', '>']
+join:  '\xaaE4>'
+unpack:  (0.17604699730873108,)
+pos:  0.176046997309
+tail:  ['\x08', 'f']
+posbytes:  ['\x99', '\xe2', 'E', '>']
+join:  '\x99\xe2E>'
+unpack:  (0.1932472139596939,)
+pos:  0.19324721396
+tail:  ['\x08', 'f']
+posbytes:  ['\x88', '\x7f', 'W', '>']
+join:  '\x88\x7fW>'
+unpack:  (0.21044743061065674,)
+pos:  0.210447430611
+tail:  ['\x08', 'f']
+posbytes:  ['&', 'S', '`', '>']
+join:  '&S`>'
+unpack:  (0.21906718611717224,)
+pos:  0.219067186117
+tail:  ['\x08', 'f']
+posbytes:  ['w', '\x1c', 'i', '>']
+join:  'w\x1ci>'
+unpack:  (0.22764764726161957,)
+pos:  0.227647647262
+tail:  ['\x08', 'f']
+posbytes:  ['\x15', '\xf0', 'q', '>']
+join:  '\x15\xf0q>'
+unpack:  (0.23626740276813507,)
+pos:  0.236267402768
+tail:  ['\x08', 'f']
+posbytes:  ['\x1b', '\xaf', 'z', '>']
+join:  '\x1b\xafz>'
+unpack:  (0.2448085993528366,)
+pos:  0.244808599353
+tail:  ['\x08', 'f']
+posbytes:  ['\x82', '\xc6', '\x81', '>']
+join:  '\x82\xc6\x81>'
+unpack:  (0.2534676194190979,)
+pos:  0.253467619419
+tail:  ['\x08', 'f']
+posbytes:  ['\xae', '\x8a', '\x8a', '>']
+join:  '\xae\x8a\x8a>'
+unpack:  (0.27058929204940796,)
+pos:  0.270589292049
+tail:  ['\x08', 'f']
+posbytes:  ['}', '\xf4', '\x8e', '>']
+join:  '}\xf4\x8e>'
+unpack:  (0.27920904755592346,)
+pos:  0.279209047556
+tail:  ['\x08', 'f']
+posbytes:  ['\x93', 'V', '\x93', '>']
+join:  '\x93V\x93>'
+unpack:  (0.2877698838710785,)
+pos:  0.287769883871
+tail:  ['\x08', 'f']
+posbytes:  ['Y', '\x97', '\x99', '>']
+join:  'Y\x97\x99>'
+unpack:  (0.29998281598091125,)
+pos:  0.299982815981
+tail:  ['\x08', 'f']
+posbytes:  ['Y', '\x97', '\x99', '>']
+join:  'Y\x97\x99>'
+unpack:  (0.29998281598091125,)
+pos:  0.299982815981
+tail:  ['\x08', 'f']
+posbytes:  ['Y', '\x97', '\x99', '>']
+join:  'Y\x97\x99>'
+unpack:  (0.29998281598091125,)
+pos:  0.299982815981
+tail:  ['\x08', 'f']
+posbytes:  ['Y', '\x97', '\x99', '>']
+join:  'Y\x97\x99>'
+unpack:  (0.29998281598091125,)
+pos:  0.299982815981
+tail:  ['\x08', 'f']
+posbytes:  ['Y', '\x97', '\x99', '>']
+join:  'Y\x97\x99>'
+unpack:  (0.29998281598091125,)
+pos:  0.299982815981
+tail:  ['\x08', 'f']
+posbytes:  ['Y', '\x97', '\x99', '>']
+join:  'Y\x97\x99>'
+unpack:  (0.29998281598091125,)
+pos:  0.299982815981
+tail:  ['\x08', 'f']
+posbytes:  ['Y', '\x97', '\x99', '>']
+join:  'Y\x97\x99>'
+unpack:  (0.29998281598091125,)
+pos:  0.299982815981
+tail:  ['\x08', 'f']
+posbytes:  ['Y', '\x97', '\x99', '>']
+join:  'Y\x97\x99>'
+unpack:  (0.29998281598091125,)
+pos:  0.299982815981
+tail:  ['\x08', 'f']
+posbytes:  ['Y', '\x97', '\x99', '>']
+join:  'Y\x97\x99>'
+unpack:  (0.29998281598091125,)
+pos:  0.299982815981
+tail:  ['\x08', 'f']
+posbytes:  ['Y', '\x97', '\x99', '>']
+join:  'Y\x97\x99>'
+unpack:  (0.29998281598091125,)
+pos:  0.299982815981
+tail:  ['\x08', 'f']
+posbytes:  ['Y', '\x97', '\x99', '>']
+join:  'Y\x97\x99>'
+unpack:  (0.29998281598091125,)
+pos:  0.299982815981
+tail:  ['\x08', 'f']
+posbytes:  ['Y', '\x97', '\x99', '>']
+join:  'Y\x97\x99>'
+unpack:  (0.29998281598091125,)
+pos:  0.299982815981
+tail:  ['\x08', 'f']
+posbytes:  ['Y', '\x97', '\x99', '>']
+join:  'Y\x97\x99>'
+unpack:  (0.29998281598091125,)
+pos:  0.299982815981
+tail:  ['\x08', 'f']
+posbytes:  ['Y', '\x97', '\x99', '>']
+join:  'Y\x97\x99>'
+unpack:  (0.29998281598091125,)
+pos:  0.299982815981
+tail:  ['\x08', 'f']
+posbytes:  ['\xea', ';', '\x98', '>']
+join:  '\xea;\x98>'
+unpack:  (0.29733210802078247,)
+pos:  0.297332108021
+tail:  ['\x08', 'f']
+posbytes:  ['~', '\xa3', '\x8f', '>']
+join:  '~\xa3\x8f>'
+unpack:  (0.2805442214012146,)
+pos:  0.280544221401
+tail:  ['\x08', 'f']
+posbytes:  [' ', 'I', '\x8b', '>']
+join:  ' I\x8b>'
+unpack:  (0.27204227447509766,)
+pos:  0.272042274475
+tail:  ['\x08', 'f']
+posbytes:  ['\xe5', '\xe1', '\x86', '>']
+join:  '\xe5\xe1\x86>'
+unpack:  (0.26344218850135803,)
+pos:  0.263442188501
+tail:  ['\x08', 'f']
+posbytes:  ['\x83', 'u', '\x82', '>']
+join:  '\x83u\x82>'
+unpack:  (0.25480279326438904,)
+pos:  0.254802793264
+tail:  ['\x08', 'f']
+posbytes:  ['\x1e', '\r', '|', '>']
+join:  '\x1e\r|>'
+unpack:  (0.24614378809928894,)
+pos:  0.246143788099
+tail:  ['\x08', 'f']
+posbytes:  ['\x17', 'N', 's', '>']
+join:  '\x17Ns>'
+unpack:  (0.2376025766134262,)
+pos:  0.237602576613
+tail:  ['\x08', 'f']
+posbytes:  ['z', 'z', 'j', '>']
+join:  'zzj>'
+unpack:  (0.2289828360080719,)
+pos:  0.228982836008
+tail:  ['\x08', 'f']
+posbytes:  ['M', '\xb6', 'a', '>']
+join:  'M\xb6a>'
+unpack:  (0.22042198479175568,)
+pos:  0.220421984792
+tail:  ['\x08', 'f']
+posbytes:  ['\xc8', '\x04', 'P', '>']
+join:  '\xc8\x04P>'
+unpack:  (0.20314323902130127,)
+pos:  0.203143239021
+tail:  ['\x08', 'f']
+posbytes:  ['\xd8', 'g', '>', '>']
+join:  '\xd8g>>'
+unpack:  (0.18594300746917725,)
+pos:  0.185943007469
+tail:  ['\x08', 'f']
+posbytes:  ['\xd2', '\xa8', '5', '>']
+join:  '\xd2\xa85>'
+unpack:  (0.1774018108844757,)
+pos:  0.177401810884
+tail:  ['\x08', 'f']
+posbytes:  ['4', '\xd5', ',', '>']
+join:  '4\xd5,>'
+unpack:  (0.1687820553779602,)
+pos:  0.168782055378
+tail:  ['\x08', 'f']
+posbytes:  ['\xe3', '\x0b', '$', '>']
+join:  '\xe3\x0b$>'
+unpack:  (0.16020159423351288,)
+pos:  0.160201594234
+tail:  ['\x08', 'f']
+posbytes:  ['E', '8', '\x1b', '>']
+join:  'E8\x1b>'
+unpack:  (0.15158183872699738,)
+pos:  0.151581838727
+tail:  ['\x08', 'f']
+posbytes:  ['\x19', 't', '\x12', '>']
+join:  '\x19t\x12>'
+unpack:  (0.14302100241184235,)
+pos:  0.143021002412
+tail:  ['\x08', 'f']
+posbytes:  ['V', '\x9b', '\t', '>']
+join:  'V\x9b\t>'
+unpack:  (0.13438162207603455,)
+pos:  0.134381622076
+tail:  ['\x08', 'f']
+posbytes:  ['P', '\xdc', '\x00', '>']
+join:  'P\xdc\x00>'
+unpack:  (0.125840425491333,)
+pos:  0.125840425491
+tail:  ['\x08', 'f']
+posbytes:  ['\x19', '\x07', '\xf0', '=']
+join:  '\x19\x07\xf0='
+unpack:  (0.11720103770494461,)
+pos:  0.117201037705
+tail:  ['\x08', 'f']
+posbytes:  ['u', 't', '\xde', '=']
+join:  'ut\xde='
+unpack:  (0.10862056165933609,)
+pos:  0.108620561659
+tail:  ['\x08', 'f']
+posbytes:  [';', '\xcd', '\xcc', '=']
+join:  ';\xcd\xcc='
+unpack:  (0.10000082105398178,)
+pos:  0.100000821054
+tail:  ['\x08', 'f']
+posbytes:  ['\xe2', 'D', '\xbb', '=']
+join:  '\xe2D\xbb='
+unpack:  (0.09143997728824615,)
+pos:  0.0914399772882
+tail:  ['\x08', 'f']
+posbytes:  ['\\', '\x93', '\xa9', '=']
+join:  '\\\x93\xa9='
+unpack:  (0.08280059695243835,)
+pos:  0.0828005969524
+tail:  ['\x08', 'f']
+posbytes:  ['O', '\x15', '\x98', '=']
+join:  'O\x15\x98='
+unpack:  (0.07425939291715622,)
+pos:  0.0742593929172
+tail:  ['\x08', 'f']
+posbytes:  ['}', 'Y', '\x86', '=']
+join:  '}Y\x86='
+unpack:  (0.06560037285089493,)
+pos:  0.0656003728509
+tail:  ['\x08', 'f']
+posbytes:  ['\xe1', '\xb6', 'i', '=']
+join:  '\xe1\xb6i='
+unpack:  (0.05705917254090309,)
+pos:  0.0570591725409
+tail:  ['\x08', 'f']
+posbytes:  ['\xd5', 'S', 'F', '=']
+join:  '\xd5SF='
+unpack:  (0.04841979220509529,)
+pos:  0.0484197922051
+tail:  ['\x08', 'f']
+posbytes:  ['\xbb', 'W', '#', '=']
+join:  '\xbbW#='
+unpack:  (0.039878588169813156,)
+pos:  0.0398785881698
+tail:  ['\x08', 'f']
+posbytes:  ['0', '\xc0', '\xff', '<']
+join:  '0\xc0\xff<'
+unpack:  (0.031219571828842163,)
+pos:  0.0312195718288
+tail:  ['\x08', 'f']
+posbytes:  ['s', 'L', '\xb9', '<']
+join:  'sL\xb9<'
+unpack:  (0.0226194616407156,)
+pos:  0.0226194616407
+tail:  ['\x08', 'f']
+posbytes:  ['#', 'V', 'f', '<']
+join:  '#Vf<'
+unpack:  (0.014058622531592846,)
+pos:  0.0140586225316
+tail:  ['\x08', 'f']
+posbytes:  ['\xe7', '\x93', '\xb1', ';']
+join:  '\xe7\x93\xb1;'
+unpack:  (0.005419242661446333,)
+pos:  0.00541924266145
+tail:  ['\x08', 'f']
+posbytes:  ['\xd7', '\x99', 'L', '\xbb']
+join:  '\xd7\x99L\xbb'
+unpack:  (-0.0031219625379890203,)
+pos:  -0.00312196253799
+tail:  ['\x08', 'f']
+posbytes:  ['9', 'i', '?', '\xbc']
+join:  '9i?\xbc'
+unpack:  (-0.011682801879942417,)
+pos:  -0.0116828018799
+tail:  ['\x08', 'f']
+posbytes:  ['\x87', 'Q', '\xa6', '\xbc']
+join:  '\x87Q\xa6\xbc'
+unpack:  (-0.0203025471419096,)
+pos:  -0.0203025471419
+tail:  ['\x08', 'f']
+posbytes:  ['\x16', '\x9c', '\xec', '\xbc']
+join:  '\x16\x9c\xec\xbc'
+unpack:  (-0.02888302132487297,)
+pos:  -0.0288830213249
+tail:  ['\x08', 'f']
+posbytes:  ['\x80', '\x9c', '\x19', '\xbd']
+join:  '\x80\x9c\x19\xbd'
+unpack:  (-0.03750276565551758,)
+pos:  -0.0375027656555
+tail:  ['\x08', 'f']
+posbytes:  ['1', '\xad', '<', '\xbd']
+join:  '1\xad<\xbd'
+unpack:  (-0.046063605695962906,)
+pos:  -0.046063605696
+tail:  ['\x08', 'f']
+posbytes:  ['\xd4', '$', '`', '\xbd']
+join:  '\xd4$`\xbd'
+unpack:  (-0.0547226220369339,)
+pos:  -0.0547226220369
+tail:  ['\x08', 'f']
+posbytes:  [',', '\x86', '\x81', '\xbd']
+join:  ',\x86\x81\xbd'
+unpack:  (-0.06324419379234314,)
+pos:  -0.0632441937923
+tail:  ['\x08', 'f']
+posbytes:  ['\xfd', 'A', '\x93', '\xbd']
+join:  '\xfdA\x93\xbd'
+unpack:  (-0.07190320640802383,)
+pos:  -0.071903206408
+tail:  ['\x08', 'f']
+posbytes:  ['V', '\xca', '\xa4', '\xbd']
+join:  'V\xca\xa4\xbd'
+unpack:  (-0.08046405017375946,)
+pos:  -0.0804640501738
+tail:  ['\x08', 'f']
+posbytes:  ['c', 'H', '\xb6', '\xbd']
+join:  'cH\xb6\xbd'
+unpack:  (-0.0890052542090416,)
+pos:  -0.089005254209
+tail:  ['\x08', 'f']
+posbytes:  ['\xe9', '\xf9', '\xc7', '\xbd']
+join:  '\xe9\xf9\xc7\xbd'
+unpack:  (-0.0976446345448494,)
+pos:  -0.0976446345448
+tail:  ['\x08', 'f']
+posbytes:  ['B', '\x82', '\xd9', '\xbd']
+join:  'B\x82\xd9\xbd'
+unpack:  (-0.10620547831058502,)
+pos:  -0.106205478311
+tail:  ['\x08', 'f']
+posbytes:  ['\xc7', '3', '\xeb', '\xbd']
+join:  '\xc73\xeb\xbd'
+unpack:  (-0.11484485119581223,)
+pos:  -0.114844851196
+tail:  ['\x08', 'f']
+posbytes:  ['\xad', '1', '\x07', '\xbe']
+join:  '\xad1\x07\xbe'
+unpack:  (-0.13202543556690216,)
+pos:  -0.132025435567
+tail:  ['\x08', 'f']
+posbytes:  ['p', '\n', '\x90', '\xbe']
+join:  'p\n\x90\xbe'
+unpack:  (-0.2813296318054199,)
+pos:  -0.281329631805
+tail:  ['\x08', 'f']
+posbytes:  ['\xc2', '\xd3', '\x18', '\xbe']
+join:  '\xc2\xd3\x18\xbe'
+unpack:  (-0.14924529194831848,)
+pos:  -0.149245291948
+tail:  ['\x08', 'f']
+posbytes:  ['\xa3', '\x8d', '!', '\xbe']
+join:  '\xa3\x8d!\xbe'
+unpack:  (-0.15776686370372772,)
+pos:  -0.157766863704
+tail:  ['\x08', 'f']
+posbytes:  ['\x8c', 'k', '*', '\xbe']
+join:  '\x8ck*\xbe'
+unpack:  (-0.166425883769989,)
+pos:  -0.16642588377
+tail:  ['\x08', 'f']
+posbytes:  ['\x82', '\xc7', 'D', '\xbe']
+join:  '\x82\xc7D\xbe'
+unpack:  (-0.19216731190681458,)
+pos:  -0.192167311907
+tail:  ['\x08', 'f']
+posbytes:  ['\x1f', '\x9b', 'M', '\xbe']
+join:  '\x1f\x9bM\xbe'
+unpack:  (-0.20078705251216888,)
+pos:  -0.200787052512
+tail:  ['\x08', 'f']
+posbytes:  ['q', 'd', 'V', '\xbe']
+join:  'qdV\xbe'
+unpack:  (-0.2093675285577774,)
+pos:  -0.209367528558
+tail:  ['\x08', 'f']
+posbytes:  ['\x0e', '8', '_', '\xbe']
+join:  '\x0e8_\xbe'
+unpack:  (-0.2179872691631317,)
+pos:  -0.217987269163
+tail:  ['\x08', 'f']
+posbytes:  ['`', '\x01', 'h', '\xbe']
+join:  '`\x01h\xbe'
+unpack:  (-0.22656774520874023,)
+pos:  -0.226567745209
+tail:  ['\x08', 'f']
+posbytes:  ['\xfe', '\xd4', 'p', '\xbe']
+join:  '\xfe\xd4p\xbe'
+unpack:  (-0.23518750071525574,)
+pos:  -0.235187500715
+tail:  ['\x08', 'f']
+posbytes:  ['P', '\x9e', 'y', '\xbe']
+join:  'P\x9ey\xbe'
+unpack:  (-0.24376797676086426,)
+pos:  -0.243767976761
+tail:  ['\x08', 'f']
+posbytes:  ['\xab', '.', '\x81', '\xbe']
+join:  '\xab.\x81\xbe'
+unpack:  (-0.2523091733455658,)
+pos:  -0.252309173346
+tail:  ['\x08', 'f']
+posbytes:  ['\r', '\x9b', '\x85', '\xbe']
+join:  '\r\x9b\x85\xbe'
+unpack:  (-0.2609485685825348,)
+pos:  -0.260948568583
+tail:  ['\x08', 'f']
+posbytes:  ['#', '\xfd', '\x89', '\xbe']
+join:  '#\xfd\x89\xbe'
+unpack:  (-0.2695094048976898,)
+pos:  -0.269509404898
+tail:  ['\x08', 'f']
+posbytes:  ['\xf1', 'f', '\x8e', '\xbe']
+join:  '\xf1f\x8e\xbe'
+unpack:  (-0.27812913060188293,)
+pos:  -0.278129130602
+tail:  ['\x08', 'f']
+posbytes:  ['\x9a', '\xcb', '\x92', '\xbe']
+join:  '\x9a\xcb\x92\xbe'
+unpack:  (-0.28670960664749146,)
+pos:  -0.286709606647
+tail:  ['\x08', 'f']
+posbytes:  ['i', '5', '\x97', '\xbe']
+join:  'i5\x97\xbe'
+unpack:  (-0.29532936215400696,)
+pos:  -0.295329362154
+tail:  ['\x08', 'f']
+posbytes:  ['\x12', '\x9a', '\x9b', '\xbe']
+join:  '\x12\x9a\x9b\xbe'
+unpack:  (-0.3039098381996155,)
+pos:  -0.3039098382
+tail:  ['\x08', 'f']
+posbytes:  ['\xe0', '\x03', '\xa0', '\xbe']
+join:  '\xe0\x03\xa0\xbe'
+unpack:  (-0.3125295639038086,)
+pos:  -0.312529563904
+tail:  ['\x08', 'f']
+posbytes:  ['\xf7', 'e', '\xa4', '\xbe']
+join:  '\xf7e\xa4\xbe'
+unpack:  (-0.321090430021286,)
+pos:  -0.321090430021
+tail:  ['\x08', 'f']
+posbytes:  ['Y', '\xd2', '\xa8', '\xbe']
+join:  'Y\xd2\xa8\xbe'
+unpack:  (-0.329729825258255,)
+pos:  -0.329729825258
+tail:  ['\x08', 'f']
+posbytes:  ['\xdc', '1', '\xad', '\xbe']
+join:  '\xdc1\xad\xbe'
+unpack:  (-0.33827102184295654,)
+pos:  -0.338271021843
+tail:  ['\x08', 'f']
+posbytes:  ['\xd0', '\xa0', '\xb1', '\xbe']
+join:  '\xd0\xa0\xb1\xbe'
+unpack:  (-0.34693002700805664,)
+pos:  -0.346930027008
+tail:  ['\x08', 'f']
+posbytes:  ['T', '\x00', '\xb6', '\xbe']
+join:  'T\x00\xb6\xbe'
+unpack:  (-0.35547125339508057,)
+pos:  -0.355471253395
+tail:  ['\x08', 'f']
+posbytes:  ['j', 'b', '\xba', '\xbe']
+join:  'jb\xba\xbe'
+unpack:  (-0.3640320897102356,)
+pos:  -0.36403208971
+tail:  ['\x08', 'f']
+posbytes:  ['8', '\xcc', '\xbe', '\xbe']
+join:  '8\xcc\xbe\xbe'
+unpack:  (-0.3726518154144287,)
+pos:  -0.372651815414
+tail:  ['\x08', 'f']
+posbytes:  ['\xe1', '0', '\xc3', '\xbe']
+join:  '\xe10\xc3\xbe'
+unpack:  (-0.38123229146003723,)
+pos:  -0.38123229146
+tail:  ['\x08', 'f']
+posbytes:  ['\xd6', '\x9f', '\xc7', '\xbe']
+join:  '\xd6\x9f\xc7\xbe'
+unpack:  (-0.3898913264274597,)
+pos:  -0.389891326427
+tail:  ['\x08', 'f']
+posbytes:  ['Y', '\xff', '\xcb', '\xbe']
+join:  'Y\xff\xcb\xbe'
+unpack:  (-0.39843252301216125,)
+pos:  -0.398432523012
+tail:  ['\x08', 'f']
+posbytes:  ['\xba', 'k', '\xd0', '\xbe']
+join:  '\xbak\xd0\xbe'
+unpack:  (-0.40707188844680786,)
+pos:  -0.407071888447
+tail:  ['\x08', 'f']
+posbytes:  ['>', '\xcb', '\xd4', '\xbe']
+join:  '>\xcb\xd4\xbe'
+unpack:  (-0.4156131148338318,)
+pos:  -0.415613114834
+tail:  ['\x08', 'f']
+posbytes:  ['2', ':', '\xd9', '\xbe']
+join:  '2:\xd9\xbe'
+unpack:  (-0.4242721199989319,)
+pos:  -0.424272119999
+tail:  ['\x08', 'f']
+posbytes:  ['"', '\x97', '\xdd', '\xbe']
+join:  '"\x97\xdd\xbe'
+unpack:  (-0.43279367685317993,)
+pos:  -0.432793676853
+tail:  ['\x08', 'f']
+posbytes:  ['\xcb', '\xfb', '\xe1', '\xbe']
+join:  '\xcb\xfb\xe1\xbe'
+unpack:  (-0.44137415289878845,)
+pos:  -0.441374152899
+tail:  ['\x08', 'f']
+posbytes:  ['C', '\xca', '\xea', '\xbe']
+join:  'C\xca\xea\xbe'
+unpack:  (-0.4585743844509125,)
+pos:  -0.458574384451
+tail:  ['\x08', 'f']
+posbytes:  ['\xa4', '6', '\xef', '\xbe']
+join:  '\xa46\xef\xbe'
+unpack:  (-0.4672137498855591,)
+pos:  -0.467213749886
+tail:  ['\x08', 'f']
+posbytes:  ['\x1c', '\x05', '\xf8', '\xbe']
+join:  '\x1c\x05\xf8\xbe'
+unpack:  (-0.4844139814376831,)
+pos:  -0.484413981438
+tail:  ['\x08', 'f']
+posbytes:  ['\x11', 'b', '\x00', '\xbf']
+join:  '\x11b\x00\xbf'
+unpack:  (-0.5014963746070862,)
+pos:  -0.501496374607
+tail:  ['\x08', 'f']
+posbytes:  ['B', '\x98', '\x02', '\xbf']
+join:  'B\x98\x02\xbf'
+unpack:  (-0.5101357698440552,)
+pos:  -0.510135769844
+tail:  ['\x08', 'f']
+posbytes:  ['M', '\xc9', '\x04', '\xbf']
+join:  'M\xc9\x04\xbf'
+unpack:  (-0.5186966061592102,)
+pos:  -0.518696606159
+tail:  ['\x08', 'f']
+posbytes:  ['\xc7', '\x00', '\x07', '\xbf']
+join:  '\xc7\x00\x07\xbf'
+unpack:  (-0.5273556113243103,)
+pos:  -0.527355611324
+tail:  ['\x08', 'f']
+posbytes:  ['\x89', '0', '\t', '\xbf']
+join:  '\x890\t\xbf'
+unpack:  (-0.5358968377113342,)
+pos:  -0.535896837711
+tail:  ['\x08', 'f']
+posbytes:  ['\x94', 'a', '\x0b', '\xbf']
+join:  '\x94a\x0b\xbf'
+unpack:  (-0.5444576740264893,)
+pos:  -0.544457674026
+tail:  ['\x08', 'f']
+posbytes:  ['\xc5', '\x97', '\r', '\xbf']
+join:  '\xc5\x97\r\xbf'
+unpack:  (-0.5530970692634583,)
+pos:  -0.553097069263
+tail:  ['\x08', 'f']
+posbytes:  ['\x19', '\xca', '\x0f', '\xbf']
+join:  '\x19\xca\x0f\xbf'
+unpack:  (-0.5616775155067444,)
+pos:  -0.561677515507
+tail:  ['\x08', 'f']
+posbytes:  ['\xb7', '\xfd', '\x11', '\xbf']
+join:  '\xb7\xfd\x11\xbf'
+unpack:  (-0.5702776312828064,)
+pos:  -0.570277631283
+tail:  ['\x08', 'f']
+posbytes:  ['\xc2', '.', '\x14', '\xbf']
+join:  '\xc2.\x14\xbf'
+unpack:  (-0.5788384675979614,)
+pos:  -0.578838467598
+tail:  ['\x08', 'f']
+posbytes:  ['\xa9', 'c', '\x16', '\xbf']
+join:  '\xa9c\x16\xbf'
+unpack:  (-0.5874581933021545,)
+pos:  -0.587458193302
+tail:  ['\x08', 'f']
+posbytes:  ['\x90', '\x96', '\x19', '\xbf']
+join:  '\x90\x96\x19\xbf'
+unpack:  (-0.5999536514282227,)
+pos:  -0.599953651428
+tail:  ['\x08', 'f']
+posbytes:  ['\xa3', '\x98', '\x19', '\xbf']
+join:  '\xa3\x98\x19\xbf'
+unpack:  (-0.5999853014945984,)
+pos:  -0.599985301495
+tail:  ['\x08', 'f']
+posbytes:  ['\xa3', '\x98', '\x19', '\xbf']
+join:  '\xa3\x98\x19\xbf'
+unpack:  (-0.5999853014945984,)
+pos:  -0.599985301495
+tail:  ['\x08', 'f']
+posbytes:  ['\xa3', '\x98', '\x19', '\xbf']
+join:  '\xa3\x98\x19\xbf'
+unpack:  (-0.5999853014945984,)
+pos:  -0.599985301495
+tail:  ['\x08', 'f']
+posbytes:  ['\xa3', '\x98', '\x19', '\xbf']
+join:  '\xa3\x98\x19\xbf'
+unpack:  (-0.5999853014945984,)
+pos:  -0.599985301495
+tail:  ['\x08', 'f']
+posbytes:  ['\xa3', '\x98', '\x19', '\xbf']
+join:  '\xa3\x98\x19\xbf'
+unpack:  (-0.5999853014945984,)
+pos:  -0.599985301495
+tail:  ['\x08', 'f']
+posbytes:  ['\xa3', '\x98', '\x19', '\xbf']
+join:  '\xa3\x98\x19\xbf'
+unpack:  (-0.5999853014945984,)
+pos:  -0.599985301495
+tail:  ['\x08', 'f']
+posbytes:  ['\xa3', '\x98', '\x19', '\xbf']
+join:  '\xa3\x98\x19\xbf'
+unpack:  (-0.5999853014945984,)
+pos:  -0.599985301495
+tail:  ['\x08', 'f']
+posbytes:  ['\xa3', '\x98', '\x19', '\xbf']
+join:  '\xa3\x98\x19\xbf'
+unpack:  (-0.5999853014945984,)
+pos:  -0.599985301495
+tail:  ['\x08', 'f']
+posbytes:  ['\xa3', '\x98', '\x19', '\xbf']
+join:  '\xa3\x98\x19\xbf'
+unpack:  (-0.5999853014945984,)
+pos:  -0.599985301495
+tail:  ['\x08', 'f']
+posbytes:  ['\xa3', '\x98', '\x19', '\xbf']
+join:  '\xa3\x98\x19\xbf'
+unpack:  (-0.5999853014945984,)
+pos:  -0.599985301495
+tail:  ['\x08', 'f']
+posbytes:  ['\xa3', '\x98', '\x19', '\xbf']
+join:  '\xa3\x98\x19\xbf'
+unpack:  (-0.5999853014945984,)
+pos:  -0.599985301495
+tail:  ['\x08', 'f']
+posbytes:  ['\xe6', '\xd4', '\x16', '\xbf']
+join:  '\xe6\xd4\x16\xbf'
+unpack:  (-0.5891860723495483,)
+pos:  -0.58918607235
+tail:  ['\x08', 'f']
+posbytes:  ['n', '\xa6', '\x14', '\xbf']
+join:  'n\xa6\x14\xbf'
+unpack:  (-0.5806645154953003,)
+pos:  -0.580664515495
+tail:  ['\x08', 'f']
+posbytes:  ['=', 'p', '\x12', '\xbf']
+join:  '=p\x12\xbf'
+unpack:  (-0.5720251202583313,)
+pos:  -0.572025120258
+tail:  ['\x08', 'f']
+posbytes:  ['2', '?', '\x90', '\xbf']
+join:  '2?\x90\xbf'
+unpack:  (-1.1269285678863525,)
+pos:  -1.12692856789
+tail:  ['\x08', 'f']
+posbytes:  ['\x02', '\t', '\x0e', '\xbf']
+join:  '\x02\t\x0e\xbf'
+unpack:  (-0.554824948310852,)
+pos:  -0.554824948311
+tail:  ['\x08', 'f']
+posbytes:  ['\xf7', '\xd7', '\x0b', '\xbf']
+join:  '\xf7\xd7\x0b\xbf'
+unpack:  (-0.546264111995697,)
+pos:  -0.546264111996
+tail:  ['\x08', 'f']
+posbytes:  ['\x95', 'k', '\x07', '\xbf']
+join:  '\x95k\x07\xbf'
+unpack:  (-0.528985321521759,)
+pos:  -0.528985321522
+tail:  ['\x08', 'f']
+posbytes:  ['\xd3', ';', '\x05', '\xbf']
+join:  '\xd3;\x05\xbf'
+unpack:  (-0.5204440951347351,)
+pos:  -0.520444095135
+tail:  ['\x08', 'f']
+posbytes:  ['Y', '\x04', '\x03', '\xbf']
+join:  'Y\x04\x03\xbf'
+unpack:  (-0.511785089969635,)
+pos:  -0.51178508997
+tail:  ['\x08', 'f']
+posbytes:  ['r', '\xcf', '\x00', '\xbf']
+join:  'r\xcf\x00\xbf'
+unpack:  (-0.5031653642654419,)
+pos:  -0.503165364265
+tail:  ['\x08', 'f']
+posbytes:  ['\xce', '<', '\xfd', '\xbe']
+join:  '\xce<\xfd\xbe'
+unpack:  (-0.49460452795028687,)
+pos:  -0.49460452795
+tail:  ['\x08', 'f']
+posbytes:  ['l', '\xd0', '\xf8', '\xbe']
+join:  'l\xd0\xf8\xbe'
+unpack:  (-0.48596513271331787,)
+pos:  -0.485965132713
+tail:  ['\x08', 'f']
+posbytes:  ['\xe9', 'p', '\xf4', '\xbe']
+join:  '\xe9p\xf4\xbe'
+unpack:  (-0.47742393612861633,)
+pos:  -0.477423936129
+tail:  ['\x08', 'f']
+posbytes:  ['\xb9', '\x9a', '\xeb', '\xbe']
+join:  '\xb9\x9a\xeb\xbe'
+unpack:  (-0.4601648151874542,)
+pos:  -0.460164815187
+tail:  ['\x08', 'f']
+posbytes:  ['\x90', '6', '\xe7', '\xbe']
+join:  '\x906\xe7\xbe'
+unpack:  (-0.45158815383911133,)
+pos:  -0.451588153839
+tail:  ['\x08', 'f']
+posbytes:  ['\xd4', '\xce', '\xe2', '\xbe']
+join:  '\xd4\xce\xe2\xbe'
+unpack:  (-0.4429842233657837,)
+pos:  -0.442984223366
+tail:  ['\x08', 'f']
+posbytes:  ['\xbe', 'l', '\xde', '\xbe']
+join:  '\xbel\xde\xbe'
+unpack:  (-0.43442338705062866,)
+pos:  -0.434423387051
+tail:  ['\x08', 'f']
+posbytes:  ['\xfb', '\x93', '\xd5', '\xbe']
+join:  '\xfb\x93\xd5\xbe'
+unpack:  (-0.41714462637901306,)
+pos:  -0.417144626379
+tail:  ['\x08', 'f']
+posbytes:  ['x', '4', '\xd1', '\xbe']
+join:  'x4\xd1\xbe'
+unpack:  (-0.4086034297943115,)
+pos:  -0.408603429794
+tail:  ['\x08', 'f']
+posbytes:  ['\x84', '\xc5', '\xcc', '\xbe']
+join:  '\x84\xc5\xcc\xbe'
+unpack:  (-0.3999444246292114,)
+pos:  -0.399944424629
+tail:  ['\x08', 'f']
+posbytes:  ['\x00', 'f', '\xc8', '\xbe']
+join:  '\x00f\xc8\xbe'
+unpack:  (-0.3914031982421875,)
+pos:  -0.391403198242
+tail:  ['\x08', 'f']
+posbytes:  ['\x9f', '\xf9', '\xc3', '\xbe']
+join:  '\x9f\xf9\xc3\xbe'
+unpack:  (-0.3827638328075409,)
+pos:  -0.382763832808
+tail:  ['\x08', 'f']
+posbytes:  ['\x89', '\x97', '\xbf', '\xbe']
+join:  '\x89\x97\xbf\xbe'
+unpack:  (-0.37420299649238586,)
+pos:  -0.374202996492
+tail:  ['\x08', 'f']
+posbytes:  ['\xba', '-', '\xbb', '\xbe']
+join:  '\xba-\xbb\xbe'
+unpack:  (-0.36558324098587036,)
+pos:  -0.365583240986
+tail:  ['\x08', 'f']
+posbytes:  ['Y', '\xc1', '\xb6', '\xbe']
+join:  'Y\xc1\xb6\xbe'
+unpack:  (-0.35694387555122375,)
+pos:  -0.356943875551
+tail:  ['\x08', 'f']
+posbytes:  ['B', '_', '\xb2', '\xbe']
+join:  'B_\xb2\xbe'
+unpack:  (-0.34838300943374634,)
+pos:  -0.348383009434
+tail:  ['\x08', 'f']
+posbytes:  ['\x12', '\x89', '\xa9', '\xbe']
+join:  '\x12\x89\xa9\xbe'
+unpack:  (-0.33112388849258423,)
+pos:  -0.331123888493
+tail:  ['\x08', 'f']
+posbytes:  ['\xfc', '&', '\xa5', '\xbe']
+join:  '\xfc&\xa5\xbe'
+unpack:  (-0.3225630521774292,)
+pos:  -0.322563052177
+tail:  ['\x08', 'f']
+posbytes:  ['-', '\xbd', '\xa0', '\xbe']
+join:  '-\xbd\xa0\xbe'
+unpack:  (-0.3139432966709137,)
+pos:  -0.313943296671
+tail:  ['\x08', 'f']
+posbytes:  ['\x17', '[', '\x9c', '\xbe']
+join:  '\x17[\x9c\xbe'
+unpack:  (-0.30538246035575867,)
+pos:  -0.305382460356
+tail:  ['\x08', 'f']
+posbytes:  ['2', '\x8f', '\x93', '\xbe']
+join:  '2\x8f\x93\xbe'
+unpack:  (-0.28820186853408813,)
+pos:  -0.288201868534
+tail:  ['\x08', 'f']
+posbytes:  ['\xd1', '"', '\x8f', '\xbe']
+join:  '\xd1"\x8f\xbe'
+unpack:  (-0.27956250309944153,)
+pos:  -0.279562503099
+tail:  ['\x08', 'f']
+posbytes:  ['o', '\xb6', '\x8a', '\xbe']
+join:  'o\xb6\x8a\xbe'
+unpack:  (-0.27092310786247253,)
+pos:  -0.270923107862
+tail:  ['\x08', 'f']
+posbytes:  ['\xe8', '\x90', '{', '\xbe']
+join:  '\xe8\x90{\xbe'
+unpack:  (-0.24566996097564697,)
+pos:  -0.245669960976
+tail:  ['\x08', 'f']
+posbytes:  ['\x00', '3', 'r', '\xbe']
+join:  '\x003r\xbe'
+unpack:  (-0.23652267456054688,)
+pos:  -0.236522674561
+tail:  ['\x08', 'f']
+posbytes:  ['\xf9', 's', 'i', '\xbe']
+join:  '\xf9si\xbe'
+unpack:  (-0.22798146307468414,)
+pos:  -0.227981463075
+tail:  ['\x08', 'f']
+posbytes:  ['\x11', '\x96', '`', '\xbe']
+join:  '\x11\x96`\xbe'
+unpack:  (-0.21932245790958405,)
+pos:  -0.21932245791
+tail:  ['\x08', 'f']
+posbytes:  ['G', '\xfe', 'N', '\xbe']
+join:  'G\xfeN\xbe'
+unpack:  (-0.2021418660879135,)
+pos:  -0.202141866088
+tail:  ['\x08', 'f']
+posbytes:  ['\xaa', '*', 'F', '\xbe']
+join:  '\xaa*F\xbe'
+unpack:  (-0.1935221254825592,)
+pos:  -0.193522125483
+tail:  ['\x08', 'f']
+posbytes:  ['~', 'f', '=', '\xbe']
+join:  '~f=\xbe'
+unpack:  (-0.18496128916740417,)
+pos:  -0.184961289167
+tail:  ['\x08', 'f']
+posbytes:  ['\xbb', '\x8d', '4', '\xbe']
+join:  '\xbb\x8d4\xbe'
+unpack:  (-0.17632190883159637,)
+pos:  -0.176321908832
+tail:  ['\x08', 'f']
+posbytes:  ['\xcb', '\xf0', '"', '\xbe']
+join:  '\xcb\xf0"\xbe'
+unpack:  (-0.15912167727947235,)
+pos:  -0.159121677279
+tail:  ['\x08', 'f']
+posbytes:  ['\xc4', '1', '\x1a', '\xbe']
+join:  '\xc41\x1a\xbe'
+unpack:  (-0.15058046579360962,)
+pos:  -0.150580465794
+tail:  ['\x08', 'f']
+posbytes:  ['\x01', 'Y', '\x11', '\xbe']
+join:  '\x01Y\x11\xbe'
+unpack:  (-0.14194108545780182,)
+pos:  -0.141941085458
+tail:  ['\x08', 'f']
+posbytes:  ['\xd5', '\x94', '\x08', '\xbe']
+join:  '\xd5\x94\x08\xbe'
+unpack:  (-0.1333802491426468,)
+pos:  -0.133380249143
+tail:  ['\x08', 'f']
+posbytes:  ['$', 'x', '\xff', '\xbd']
+join:  '$x\xff\xbd'
+unpack:  (-0.12474086880683899,)
+pos:  -0.124740868807
+tail:  ['\x08', 'f']
+posbytes:  ['\x9e', '\xc6', '\xed', '\xbd']
+join:  '\x9e\xc6\xed\xbd'
+unpack:  (-0.11610148847103119,)
+pos:  -0.116101488471
+tail:  ['\x08', 'f']
+posbytes:  ['\x91', 'H', '\xdc', '\xbd']
+join:  '\x91H\xdc\xbd'
+unpack:  (-0.10756028443574905,)
+pos:  -0.107560284436
+tail:  ['\x08', 'f']
+posbytes:  ['\xb3', '\x0e', '\xb9', '\xbd']
+join:  '\xb3\x0e\xb9\xbd'
+unpack:  (-0.09036006778478622,)
+pos:  -0.0903600677848
+tail:  ['\x08', 'f']
+posbytes:  ['[', '\xa1', '\x95', '\xbd']
+join:  '[\xa1\x95\xbd'
+unpack:  (-0.07306166738271713,)
+pos:  -0.0730616673827
+tail:  ['\x08', 'f']
+posbytes:  ['N', '#', '\x84', '\xbd']
+join:  'N#\x84\xbd'
+unpack:  (-0.064520463347435,)
+pos:  -0.0645204633474
+tail:  ['\x08', 'f']
+posbytes:  ['\x82', 'J', 'e', '\xbd']
+join:  '\x82Je\xbd'
+unpack:  (-0.05597925931215286,)
+pos:  -0.0559792593122
+tail:  ['\x08', 'f']
+posbytes:  ['v', '\xe7', 'A', '\xbd']
+join:  'v\xe7A\xbd'
+unpack:  (-0.04733987897634506,)
+pos:  -0.0473398789763
+tail:  ['\x08', 'f']
+posbytes:  ['j', '\x84', '\x1e', '\xbd']
+join:  'j\x84\x1e\xbd'
+unpack:  (-0.03870049864053726,)
+pos:  -0.0387004986405
+tail:  ['\x08', 'f']
+posbytes:  ['r', '\xe7', '\xf6', '\xbc']
+join:  'r\xe7\xf6\xbc'
+unpack:  (-0.030139658600091934,)
+pos:  -0.0301396586001
+tail:  ['\x08', 'f']
+posbytes:  ['Z', '!', '\xb0', '\xbc']
+join:  'Z!\xb0\xbc'
+unpack:  (-0.021500278264284134,)
+pos:  -0.0215002782643
+tail:  ['\x08', 'f']
+posbytes:  ['\xa7', '\xa4', 'T', '\xbc']
+join:  '\xa7\xa4T\xbc'
+unpack:  (-0.012978709302842617,)
+pos:  -0.0129787093028
+tail:  ['\x08', 'f']
+posbytes:  [':', '\x8c', '\x8d', '\xbb']
+join:  ':\x8c\x8d\xbb'
+unpack:  (-0.004319694824516773,)
+pos:  -0.00431969482452
+tail:  ['\x08', 'f']
+posbytes:  ['N', '\xf9', '\x8a', ';']
+join:  'N\xf9\x8a;'
+unpack:  (0.0042411452159285545,)
+pos:  0.00424114521593
+tail:  ['\x08', 'f']
+posbytes:  ['\xd6', '\x08', 'S', '<']
+join:  '\xd6\x08S<'
+unpack:  (0.01288052462041378,)
+pos:  0.0128805246204
+tail:  ['\x08', 'f']
+posbytes:  ['\xa0', '|', '\xaf', '<']
+join:  '\xa0|\xaf<'
+unpack:  (0.021421730518341064,)
+pos:  0.0214217305183
+tail:  ['\x08', 'f']
+posbytes:  ['\x8a', '\x19', '\xf6', '<']
+join:  '\x8a\x19\xf6<'
+unpack:  (0.030041474848985672,)
+pos:  0.030041474849
+tail:  ['\x08', 'f']
+posbytes:  ['\xdf', '\x08', '\x1e', '=']
+join:  '\xdf\x08\x1e='
+unpack:  (0.03858267888426781,)
+pos:  0.0385826788843
+tail:  ['\x08', 'f']
+posbytes:  ['\xeb', 'k', 'A', '=']
+join:  '\xebkA='
+unpack:  (0.04722205922007561,)
+pos:  0.0472220592201
+tail:  ['\x08', 'f']
+posbytes:  ['\x9c', '|', 'd', '=']
+join:  '\x9c|d='
+unpack:  (0.055782899260520935,)
+pos:  0.0557828992605
+tail:  ['\x08', 'f']
+posbytes:  ['\xd4', '\xef', '\x83', '=']
+join:  '\xd4\xef\x83='
+unpack:  (0.06442227959632874,)
+pos:  0.0644222795963
+tail:  ['\x08', 'f']
+posbytes:  [',', 'x', '\x95', '=']
+join:  ',x\x95='
+unpack:  (0.07298311591148376,)
+pos:  0.0729831159115
+tail:  ['\x08', 'f']
+posbytes:  ['\x91', 'c', '\xca', '=']
+join:  '\x91c\xca='
+unpack:  (0.09882272034883499,)
+pos:  0.0988227203488
+tail:  ['\x08', 'f']
+posbytes:  ['S', '\xd7', '\xdb', '=']
+join:  'S\xd7\xdb='
+unpack:  (0.10734429210424423,)
+pos:  0.107344292104
+tail:  ['\x08', 'f']
+posbytes:  ['$', '\x93', '\xed', '=']
+join:  '$\x93\xed='
+unpack:  (0.11600330471992493,)
+pos:  0.11600330472
+tail:  ['\x08', 'f']
+posbytes:  ['1', '\x11', '\xff', '=']
+join:  '1\x11\xff='
+unpack:  (0.12454450875520706,)
+pos:  0.124544508755
+tail:  ['\x08', 'f']
+posbytes:  ['\x81', 'f', '\x08', '>']
+join:  '\x81f\x08>'
+unpack:  (0.13320352137088776,)
+pos:  0.133203521371
+tail:  ['\x08', 'f']
+posbytes:  ['\x88', '%', '\x11', '>']
+join:  '\x88%\x11>'
+unpack:  (0.1417447328567505,)
+pos:  0.141744732857
+tail:  ['\x08', 'f']
+posbytes:  ['K', '\xfe', '\x19', '>']
+join:  'K\xfe\x19>'
+unpack:  (0.1503841131925583,)
+pos:  0.150384113193
+tail:  ['\x08', 'f']
+posbytes:  ['Q', '\xbd', '"', '>']
+join:  'Q\xbd">'
+unpack:  (0.15892530977725983,)
+pos:  0.158925309777
+tail:  ['\x08', 'f']
+posbytes:  ['\x14', '\x96', '+', '>']
+join:  '\x14\x96+>'
+unpack:  (0.16756469011306763,)
+pos:  0.167564690113
+tail:  ['\x08', 'f']
+posbytes:  ['f', '_', '4', '>']
+join:  'f_4>'
+unpack:  (0.17614516615867615,)
+pos:  0.176145166159
+tail:  ['\x08', 'f']
+posbytes:  ['m', '\x1e', '=', '>']
+join:  'm\x1e=>'
+unpack:  (0.18468637764453888,)
+pos:  0.184686377645
+tail:  ['\x08', 'f']
+posbytes:  ['\\', '\xbb', 'N', '>']
+join:  '\\\xbbN>'
+unpack:  (0.2018865942955017,)
+pos:  0.201886594296
+tail:  ['\x08', 'f']
+posbytes:  ['\x1f', '\x94', 'W', '>']
+join:  '\x1f\x94W>'
+unpack:  (0.2105259746313095,)
+pos:  0.210525974631
+tail:  ['\x08', 'f']
+posbytes:  ['&', 'S', '`', '>']
+join:  '&S`>'
+unpack:  (0.21906718611717224,)
+pos:  0.219067186117
+tail:  ['\x08', 'f']
+posbytes:  ['\xd8', '\xc8', 'z', '>']
+join:  '\xd8\xc8z>'
+unpack:  (0.24490678310394287,)
+pos:  0.244906783104
+tail:  ['\x08', 'f']
+posbytes:  ['Q', '0', '\x86', '>']
+join:  'Q0\x86>'
+unpack:  (0.2620873749256134,)
+pos:  0.262087374926
+tail:  ['\x08', 'f']
+posbytes:  ['\xfa', '\x94', '\x8a', '>']
+join:  '\xfa\x94\x8a>'
+unpack:  (0.2706678509712219,)
+pos:  0.270667850971
+tail:  ['\x08', 'f']
+posbytes:  ['[', '\x01', '\x8f', '>']
+join:  '[\x01\x8f>'
+unpack:  (0.27930721640586853,)
+pos:  0.279307216406
+tail:  ['\x08', 'f']
+posbytes:  ['q', 'c', '\x93', '>']
+join:  'qc\x93>'
+unpack:  (0.28786805272102356,)
+pos:  0.287868052721
+tail:  ['\x08', 'f']
+posbytes:  ['\xf1', '\xb0', '\x97', '>']
+join:  '\xf1\xb0\x97>'
+unpack:  (0.29627183079719543,)
+pos:  0.296271830797
+tail:  ['\x08', 'f']
+posbytes:  ['Y', '\x97', '\x99', '>']
+join:  'Y\x97\x99>'
+unpack:  (0.29998281598091125,)
+pos:  0.299982815981
+tail:  ['\x08', 'f']
+posbytes:  ['Y', '\x97', '\x99', '>']
+join:  'Y\x97\x99>'
+unpack:  (0.29998281598091125,)
+pos:  0.299982815981
+tail:  ['\x08', 'f']
+posbytes:  ['Y', '\x97', '\x99', '>']
+join:  'Y\x97\x99>'
+unpack:  (0.29998281598091125,)
+pos:  0.299982815981
+tail:  ['\x08', 'f']
+posbytes:  ['Y', '\x97', '\x99', '>']
+join:  'Y\x97\x99>'
+unpack:  (0.29998281598091125,)
+pos:  0.299982815981
+tail:  ['\x08', 'f']
+posbytes:  ['Y', '\x97', '\x99', '>']
+join:  'Y\x97\x99>'
+unpack:  (0.29998281598091125,)
+pos:  0.299982815981
+tail:  ['\x08', 'f']
+posbytes:  ['Y', '\x97', '\x99', '>']
+join:  'Y\x97\x99>'
+unpack:  (0.29998281598091125,)
+pos:  0.299982815981
+tail:  ['\x08', 'f']
+posbytes:  ['Y', '\x97', '\x99', '>']
+join:  'Y\x97\x99>'
+unpack:  (0.29998281598091125,)
+pos:  0.299982815981
+tail:  ['\x08', 'f']
+posbytes:  ['Y', '\x97', '\x99', '>']
+join:  'Y\x97\x99>'
+unpack:  (0.29998281598091125,)
+pos:  0.299982815981
+tail:  ['\x08', 'f']
+posbytes:  ['Y', '\x97', '\x99', '>']
+join:  'Y\x97\x99>'
+unpack:  (0.29998281598091125,)
+pos:  0.299982815981
+tail:  ['\x08', 'f']
+posbytes:  ['Y', '\x97', '\x99', '>']
+join:  'Y\x97\x99>'
+unpack:  (0.29998281598091125,)
+pos:  0.299982815981
+tail:  ['\x08', 'f']
+posbytes:  ['Y', '\x97', '\x99', '>']
+join:  'Y\x97\x99>'
+unpack:  (0.29998281598091125,)
+pos:  0.299982815981
+tail:  ['\x08', 'f']
+posbytes:  ['1', '4', '\x98', '>']
+join:  '14\x98>'
+unpack:  (0.297273188829422,)
+pos:  0.297273188829
+tail:  ['\x08', 'f']
+posbytes:  ['r', '\x12', '\x94', '>']
+join:  'r\x12\x94>'
+unpack:  (0.2892032265663147,)
+pos:  0.289203226566
+tail:  ['\x08', 'f']
+posbytes:  ['~', '\xa3', '\x8f', '>']
+join:  '~\xa3\x8f>'
+unpack:  (0.2805442214012146,)
+pos:  0.280544221401
+tail:  ['\x08', 'f']
+posbytes:  ['\xaf', '9', '\x8b', '>']
+join:  '\xaf9\x8b>'
+unpack:  (0.2719244658946991,)
+pos:  0.271924465895
+tail:  ['\x08', 'f']
+posbytes:  ['\x06', '\xd5', '\x86', '>']
+join:  '\x06\xd5\x86>'
+unpack:  (0.2633439898490906,)
+pos:  0.263343989849
+tail:  ['\x08', 'f']
+posbytes:  ['8', 'k', '\x82', '>']
+join:  '8k\x82>'
+unpack:  (0.25472426414489746,)
+pos:  0.254724264145
+tail:  ['\x08', 'f']
+posbytes:  ['\xac', '\xfd', '{', '>']
+join:  '\xac\xfd{>'
+unpack:  (0.24608486890792847,)
+pos:  0.246084868908
+tail:  ['\x08', 'f']
+posbytes:  ['\x80', '9', 's', '>']
+join:  '\x809s>'
+unpack:  (0.23752403259277344,)
+pos:  0.237524032593
+tail:  ['\x08', 'f']
+posbytes:  ['\xe3', 'e', 'j', '>']
+join:  '\xe3ej>'
+unpack:  (0.22890429198741913,)
+pos:  0.228904291987
+tail:  ['\x08', 'f']
+posbytes:  ['\xb7', '\xa1', 'a', '>']
+join:  '\xb7\xa1a>'
+unpack:  (0.2203434556722641,)
+pos:  0.220343455672
+tail:  ['\x08', 'f']
+posbytes:  ['\xf4', '\xc8', 'X', '>']
+join:  '\xf4\xc8X>'
+unpack:  (0.2117040753364563,)
+pos:  0.211704075336
+tail:  ['\x08', 'f']
+posbytes:  ['\xc8', '\x04', 'P', '>']
+join:  '\xc8\x04P>'
+unpack:  (0.20314323902130127,)
+pos:  0.203143239021
+tail:  ['\x08', 'f']
+posbytes:  ['*', '1', 'G', '>']
+join:  '*1G>'
+unpack:  (0.19452348351478577,)
+pos:  0.194523483515
+tail:  ['\x08', 'f']
+posbytes:  ['\xd8', 'g', '>', '>']
+join:  '\xd8g>>'
+unpack:  (0.18594300746917725,)
+pos:  0.185943007469
+tail:  ['\x08', 'f']
+posbytes:  ['\x15', '\x8f', '5', '>']
+join:  '\x15\x8f5>'
+unpack:  (0.17730362713336945,)
+pos:  0.177303627133
+tail:  ['\x08', 'f']
+posbytes:  ['R', '\xb6', ',', '>']
+join:  'R\xb6,>'
+unpack:  (0.16866424679756165,)
+pos:  0.168664246798
+tail:  ['\x08', 'f']
+posbytes:  ['L', '\xf7', '#', '>']
+join:  'L\xf7#>'
+unpack:  (0.1601230502128601,)
+pos:  0.160123050213
+tail:  ['\x08', 'f']
+posbytes:  [' ', '3', '\x1b', '>']
+join:  ' 3\x1b>'
+unpack:  (0.15156221389770508,)
+pos:  0.151562213898
+tail:  ['\x08', 'f']
+posbytes:  ['\x82', '_', '\x12', '>']
+join:  '\x82_\x12>'
+unpack:  (0.14294245839118958,)
+pos:  0.142942458391
+tail:  ['\x08', 'f']
+posbytes:  ['\xbf', '\x86', '\t', '>']
+join:  '\xbf\x86\t>'
+unpack:  (0.13430307805538177,)
+pos:  0.134303078055
+tail:  ['\x08', 'f']
+posbytes:  ['\x93', '\xc2', '\x00', '>']
+join:  '\x93\xc2\x00>'
+unpack:  (0.12574224174022675,)
+pos:  0.12574224174
+tail:  ['\x08', 'f']
+posbytes:  ['\xec', '\xdd', '\xef', '=']
+join:  '\xec\xdd\xef='
+unpack:  (0.11712250113487244,)
+pos:  0.117122501135
+tail:  ['\x08', 'f']
+posbytes:  ['\xfd', '@', '\xde', '=']
+join:  '\xfd@\xde='
+unpack:  (0.10852239280939102,)
+pos:  0.108522392809
+tail:  ['\x08', 'f']
+posbytes:  ['\xb5', '\x1b', '\xbb', '=']
+join:  '\xb5\x1b\xbb='
+unpack:  (0.09136144071817398,)
+pos:  0.0913614407182
+tail:  ['\x08', 'f']
+posbytes:  ['/', 'j', '\xa9', '=']
+join:  '/j\xa9='
+unpack:  (0.08272206038236618,)
+pos:  0.0827220603824
+tail:  ['\x08', 'f']
+posbytes:  ['!', '\xec', '\x97', '=']
+join:  '!\xec\x97='
+unpack:  (0.07418084889650345,)
+pos:  0.0741808488965
+tail:  ['\x08', 'f']
+posbytes:  ['\xef', 'O', 'i', '=']
+join:  '\xefOi='
+unpack:  (0.056960996240377426,)
+pos:  0.0569609962404
+tail:  ['\x08', 'f']
+posbytes:  ['\xe3', '\xec', 'E', '=']
+join:  '\xe3\xecE='
+unpack:  (0.048321615904569626,)
+pos:  0.0483216159046
+tail:  ['\x08', 'f']
+posbytes:  ['\xc9', '\xf0', '"', '=']
+join:  '\xc9\xf0"='
+unpack:  (0.03978041186928749,)
+pos:  0.0397804118693
+tail:  ['\x08', 'f']
+posbytes:  ['z', '\x1b', '\xff', '<']
+join:  'z\x1b\xff<'
+unpack:  (0.03114103153347969,)
+pos:  0.0311410315335
+tail:  ['\x08', 'f']
+posbytes:  ['F', '#', '\xb9', '<']
+join:  'F#\xb9<'
+unpack:  (0.022599827498197556,)
+pos:  0.0225998274982
+tail:  ['\x08', 'f']
+posbytes:  ['\xb7', '\x0c', 'e', '<']
+join:  '\xb7\x0ce<'
+unpack:  (0.013980082236230373,)
+pos:  0.0139800822362
+tail:  ['\x08', 'f']
+posbytes:  ['\xe7', '\x93', '\xb1', ';']
+join:  '\xe7\x93\xb1;'
+unpack:  (0.005419242661446333,)
+pos:  0.00541924266145
+tail:  ['\x08', 'f']
+posbytes:  ['\x85', '\xbf', 'Q', '\xbb']
+join:  '\x85\xbfQ\xbb'
+unpack:  (-0.0032005023676902056,)
+pos:  -0.00320050236769
+tail:  ['\x08', 'f']
+posbytes:  ['\x00', '\x05', 'A', '\xbc']
+join:  '\x00\x05A\xbc'
+unpack:  (-0.011780977249145508,)
+pos:  -0.0117809772491
+tail:  ['\x08', 'f']
+posbytes:  ['=', '\xf6', '\xa6', '\xbc']
+join:  '=\xf6\xa6\xbc'
+unpack:  (-0.020381087437272072,)
+pos:  -0.0203810874373
+tail:  ['\x08', 'f']
+posbytes:  ['\x9f', '\x17', '\xed', '\xbc']
+join:  '\x9f\x17\xed\xbc'
+unpack:  (-0.0289419274777174,)
+pos:  -0.0289419274777
+tail:  ['\x08', 'f']
+posbytes:  ['r', '\x03', '\x1a', '\xbd']
+join:  'r\x03\x1a\xbd'
+unpack:  (-0.03760094195604324,)
+pos:  -0.037600941956
+tail:  ['\x08', 'f']
+posbytes:  ['#', '\x14', '=', '\xbd']
+join:  '#\x14=\xbd'
+unpack:  (-0.04616178199648857,)
+pos:  -0.0461617819965
+tail:  ['\x08', 'f']
+posbytes:  ['/', 'w', '`', '\xbd']
+join:  '/w`\xbd'
+unpack:  (-0.05480116233229637,)
+pos:  -0.0548011623323
+tail:  ['\x08', 'f']
+posbytes:  ['\xa4', '\xb9', '\x81', '\xbd']
+join:  '\xa4\xb9\x81\xbd'
+unpack:  (-0.06334236264228821,)
+pos:  -0.0633423626423
+tail:  ['\x08', 'f']
+posbytes:  ['*', 'k', '\x93', '\xbd']
+join:  '*k\x93\xbd'
+unpack:  (-0.07198174297809601,)
+pos:  -0.0719817429781
+tail:  ['\x08', 'f']
+posbytes:  ['\x83', '\xf3', '\xa4', '\xbd']
+join:  '\x83\xf3\xa4\xbd'
+unpack:  (-0.08054258674383163,)
+pos:  -0.0805425867438
+tail:  ['\x08', 'f']
+posbytes:  ['\t', '\xa5', '\xb6', '\xbd']
+join:  '\t\xa5\xb6\xbd'
+unpack:  (-0.08918196707963943,)
+pos:  -0.0891819670796
+tail:  ['\x08', 'f']
+posbytes:  ['\x16', '#', '\xc8', '\xbd']
+join:  '\x16#\xc8\xbd'
+unpack:  (-0.09772317111492157,)
+pos:  -0.0977231711149
+tail:  ['\x08', 'f']
+posbytes:  ['\x9c', '\xd4', '\xd9', '\xbd']
+join:  '\x9c\xd4\xd9\xbd'
+unpack:  (-0.10636255145072937,)
+pos:  -0.106362551451
+tail:  ['\x08', 'f']
+posbytes:  ['\xf5', '\\', '\xeb', '\xbd']
+join:  '\xf5\\\xeb\xbd'
+unpack:  (-0.114923395216465,)
+pos:  -0.114923395216
+tail:  ['\x08', 'f']
+posbytes:  ['\x07', '\x1f', '\x90', '\xbe']
+join:  '\x07\x1f\x90\xbe'
+unpack:  (-0.28148671984672546,)
+pos:  -0.281486719847
+tail:  ['\x08', 'f']
+posbytes:  ['Y', '\xe8', '\x18', '\xbe']
+join:  'Y\xe8\x18\xbe'
+unpack:  (-0.14932383596897125,)
+pos:  -0.149323835969
+tail:  ['\x08', 'f']
+posbytes:  ['_', '\xa7', '!', '\xbe']
+join:  '_\xa7!\xbe'
+unpack:  (-0.1578650325536728,)
+pos:  -0.157865032554
+tail:  ['\x08', 'f']
+posbytes:  ['O', 'D', '3', '\xbe']
+join:  'OD3\xbe'
+unpack:  (-0.17506526410579681,)
+pos:  -0.175065264106
+tail:  ['\x08', 'f']
+posbytes:  ['\x12', '\x1d', '<', '\xbe']
+join:  '\x12\x1d<\xbe'
+unpack:  (-0.18370464444160461,)
+pos:  -0.183704644442
+tail:  ['\x08', 'f']
+posbytes:  ['>', '\xe1', 'D', '\xbe']
+join:  '>\xe1D\xbe'
+unpack:  (-0.19226548075675964,)
+pos:  -0.192265480757
+tail:  ['\x08', 'f']
+posbytes:  ['\x01', '\xba', 'M', '\xbe']
+join:  '\x01\xbaM\xbe'
+unpack:  (-0.20090486109256744,)
+pos:  -0.200904861093
+tail:  ['\x08', 'f']
+posbytes:  ['.', '~', 'V', '\xbe']
+join:  '.~V\xbe'
+unpack:  (-0.20946571230888367,)
+pos:  -0.209465712309
+tail:  ['\x08', 'f']
+posbytes:  ['\xcb', 'Q', '_', '\xbe']
+join:  '\xcbQ_\xbe'
+unpack:  (-0.21808545291423798,)
+pos:  -0.218085452914
+tail:  ['\x08', 'f']
+posbytes:  ['\x1d', '\x1b', 'h', '\xbe']
+join:  '\x1d\x1bh\xbe'
+unpack:  (-0.2266659289598465,)
+pos:  -0.22666592896
+tail:  ['\x08', 'f']
+posbytes:  ['\xba', '\xee', 'p', '\xbe']
+join:  '\xba\xeep\xbe'
+unpack:  (-0.2352856695652008,)
+pos:  -0.235285669565
+tail:  ['\x08', 'f']
+posbytes:  ['\xd5', 'E', '\x81', '\xbe']
+join:  '\xd5E\x81\xbe'
+unpack:  (-0.25248590111732483,)
+pos:  -0.252485901117
+tail:  ['\x08', 'f']
+posbytes:  ['X', '\xa5', '\x85', '\xbe']
+join:  'X\xa5\x85\xbe'
+unpack:  (-0.26102709770202637,)
+pos:  -0.261027097702
+tail:  ['\x08', 'f']
+posbytes:  ['\x01', '\n', '\x8a', '\xbe']
+join:  '\x01\n\x8a\xbe'
+unpack:  (-0.2696075737476349,)
+pos:  -0.269607573748
+tail:  ['\x08', 'f']
+posbytes:  ['\xc4', '\xe2', '\x92', '\xbe']
+join:  '\xc4\xe2\x92\xbe'
+unpack:  (-0.2868863344192505,)
+pos:  -0.286886334419
+tail:  ['\x08', 'f']
+posbytes:  ['\xb4', '?', '\x97', '\xbe']
+join:  '\xb4?\x97\xbe'
+unpack:  (-0.29540789127349854,)
+pos:  -0.295407891273
+tail:  ['\x08', 'f']
+posbytes:  [']', '\xa4', '\x9b', '\xbe']
+join:  ']\xa4\x9b\xbe'
+unpack:  (-0.30398836731910706,)
+pos:  -0.303988367319
+tail:  ['\x08', 'f']
+posbytes:  ['\xbf', '\x90', '\xa0', '\xbe']
+join:  '\xbf\x90\xa0\xbe'
+unpack:  (-0.31360432505607605,)
+pos:  -0.313604325056
+tail:  ['\x08', 'f']
+posbytes:  ['B', 'p', '\xa4', '\xbe']
+join:  'Bp\xa4\xbe'
+unpack:  (-0.3211689591407776,)
+pos:  -0.321168959141
+tail:  ['\x08', 'f']
+posbytes:  ['\xa4', '\xdc', '\xa8', '\xbe']
+join:  '\xa4\xdc\xa8\xbe'
+unpack:  (-0.3298083543777466,)
+pos:  -0.329808354378
+tail:  ['\x08', 'f']
+posbytes:  ['\x06', 'I', '\xad', '\xbe']
+join:  '\x06I\xad\xbe'
+unpack:  (-0.3384477496147156,)
+pos:  -0.338447749615
+tail:  ['\x08', 'f']
+posbytes:  ['\x1c', '\xab', '\xb1', '\xbe']
+join:  '\x1c\xab\xb1\xbe'
+unpack:  (-0.3470085859298706,)
+pos:  -0.34700858593
+tail:  ['\x08', 'f']
+posbytes:  ['\x9f', '\n', '\xb6', '\xbe']
+join:  '\x9f\n\xb6\xbe'
+unpack:  (-0.35554978251457214,)
+pos:  -0.355549782515
+tail:  ['\x08', 'f']
+posbytes:  ['H', 'o', '\xba', '\xbe']
+join:  'Ho\xba\xbe'
+unpack:  (-0.36413025856018066,)
+pos:  -0.36413025856
+tail:  ['\x08', 'f']
+posbytes:  ['\x84', '\xd6', '\xbe', '\xbe']
+join:  '\x84\xd6\xbe\xbe'
+unpack:  (-0.3727303743362427,)
+pos:  -0.372730374336
+tail:  ['\x08', 'f']
+posbytes:  ['-', ';', '\xc3', '\xbe']
+join:  '-;\xc3\xbe'
+unpack:  (-0.3813108503818512,)
+pos:  -0.381310850382
+tail:  ['\x08', 'f']
+posbytes:  ['!', '\xaa', '\xc7', '\xbe']
+join:  '!\xaa\xc7\xbe'
+unpack:  (-0.3899698555469513,)
+pos:  -0.389969855547
+tail:  ['\x08', 'f']
+posbytes:  ['\xa4', '\t', '\xcc', '\xbe']
+join:  '\xa4\t\xcc\xbe'
+unpack:  (-0.39851105213165283,)
+pos:  -0.398511052132
+tail:  ['\x08', 'f']
+posbytes:  ['\x99', 'x', '\xd0', '\xbe']
+join:  '\x99x\xd0\xbe'
+unpack:  (-0.4071700870990753,)
+pos:  -0.407170087099
+tail:  ['\x08', 'f']
+posbytes:  ['\x89', '\xd5', '\xd4', '\xbe']
+join:  '\x89\xd5\xd4\xbe'
+unpack:  (-0.41569164395332336,)
+pos:  -0.415691643953
+tail:  ['\x08', 'f']
+posbytes:  ['\x90', 'G', '\xd9', '\xbe']
+join:  '\x90G\xd9\xbe'
+unpack:  (-0.4243741035461426,)
+pos:  -0.424374103546
+tail:  ['\x08', 'f']
+posbytes:  ['\x01', '\xa4', '\xdd', '\xbe']
+join:  '\x01\xa4\xdd\xbe'
+unpack:  (-0.4328918755054474,)
+pos:  -0.432891875505
+tail:  ['\x08', 'f']
+posbytes:  ['\xf5', '\x12', '\xe2', '\xbe']
+join:  '\xf5\x12\xe2\xbe'
+unpack:  (-0.4415508806705475,)
+pos:  -0.441550880671
+tail:  ['\x08', 'f']
+posbytes:  ['\xe5', 'o', '\xe6', '\xbe']
+join:  '\xe5o\xe6\xbe'
+unpack:  (-0.45007243752479553,)
+pos:  -0.450072437525
+tail:  ['\x08', 'f']
+posbytes:  ['\x8e', '\xd4', '\xea', '\xbe']
+join:  '\x8e\xd4\xea\xbe'
+unpack:  (-0.45865291357040405,)
+pos:  -0.45865291357
+tail:  ['\x08', 'f']
+posbytes:  ['\xf0', '@', '\xef', '\xbe']
+join:  '\xf0@\xef\xbe'
+unpack:  (-0.46729230880737305,)
+pos:  -0.467292308807
+tail:  ['\x08', 'f']
+posbytes:  ['\x06', '\xa3', '\xf3', '\xbe']
+join:  '\x06\xa3\xf3\xbe'
+unpack:  (-0.4758531451225281,)
+pos:  -0.475853145123
+tail:  ['\x08', 'f']
+posbytes:  ['\xfa', '\x11', '\xf8', '\xbe']
+join:  '\xfa\x11\xf8\xbe'
+unpack:  (-0.4845121502876282,)
+pos:  -0.484512150288
+tail:  ['\x08', 'f']
+posbytes:  ['X', 'l', '\xfc', '\xbe']
+join:  'Xl\xfc\xbe'
+unpack:  (-0.4930140972137451,)
+pos:  -0.493014097214
+tail:  ['\x08', 'f']
+posbytes:  ['\xa6', 'm', '\x00', '\xbf']
+join:  '\xa6m\x00\xbf'
+unpack:  (-0.5016731023788452,)
+pos:  -0.501673102379
+tail:  ['\x08', 'f']
+posbytes:  ['\x1e', '\x9c', '\x02', '\xbf']
+join:  '\x1e\x9c\x02\xbf'
+unpack:  (-0.5101946592330933,)
+pos:  -0.510194659233
+tail:  ['\x08', 'f']
+posbytes:  ['\xbc', '\xcf', '\x04', '\xbf']
+join:  '\xbc\xcf\x04\xbf'
+unpack:  (-0.5187947750091553,)
+pos:  -0.518794775009
+tail:  ['\x08', 'f']
+posbytes:  ['\xa4', '\x04', '\x07', '\xbf']
+join:  '\xa4\x04\x07\xbf'
+unpack:  (-0.5274145603179932,)
+pos:  -0.527414560318
+tail:  ['\x08', 'f']
+posbytes:  ['\xd4', ':', '\t', '\xbf']
+join:  '\xd4:\t\xbf'
+unpack:  (-0.5360538959503174,)
+pos:  -0.53605389595
+tail:  ['\x08', 'f']
+posbytes:  [')', 'm', '\x0b', '\xbf']
+join:  ')m\x0b\xbf'
+unpack:  (-0.5446344017982483,)
+pos:  -0.544634401798
+tail:  ['\x08', 'f']
+posbytes:  ['\xea', '\x9c', '\r', '\xbf']
+join:  '\xea\x9c\r\xbf'
+unpack:  (-0.5531755685806274,)
+pos:  -0.553175568581
+tail:  ['\x08', 'f']
+posbytes:  ['\xae', '\xd5', '\x0f', '\xbf']
+join:  '\xae\xd5\x0f\xbf'
+unpack:  (-0.5618542432785034,)
+pos:  -0.561854243279
+tail:  ['\x08', 'f']
+posbytes:  ['\xdd', '\x02', '\x12', '\xbf']
+join:  '\xdd\x02\x12\xbf'
+unpack:  (-0.5703561902046204,)
+pos:  -0.570356190205
+tail:  ['\x08', 'f']
+posbytes:  ['W', ':', '\x14', '\xbf']
+join:  'W:\x14\xbf'
+unpack:  (-0.5790151953697205,)
+pos:  -0.57901519537
+tail:  ['\x08', 'f']
+posbytes:  ['b', 'k', '\x16', '\xbf']
+join:  'bk\x16\xbf'
+unpack:  (-0.5875760316848755,)
+pos:  -0.587576031685
+tail:  ['\x08', 'f']
+posbytes:  ['\xfe', '\x95', '\x18', '\xbf']
+join:  '\xfe\x95\x18\xbf'
+unpack:  (-0.5960386991500854,)
+pos:  -0.59603869915
+tail:  ['\x08', 'f']
+posbytes:  ['\x90', '\x96', '\x19', '\xbf']
+join:  '\x90\x96\x19\xbf'
+unpack:  (-0.5999536514282227,)
+pos:  -0.599953651428
+tail:  ['\x08', 'f']
+posbytes:  ['\xa3', '\x98', '\x19', '\xbf']
+join:  '\xa3\x98\x19\xbf'
+unpack:  (-0.5999853014945984,)
+pos:  -0.599985301495
+tail:  ['\x08', 'f']
+posbytes:  ['\xa3', '\x98', '\x19', '\xbf']
+join:  '\xa3\x98\x19\xbf'
+unpack:  (-0.5999853014945984,)
+pos:  -0.599985301495
+tail:  ['\x08', 'f']
+posbytes:  ['\xa3', '\x98', '\x19', '\xbf']
+join:  '\xa3\x98\x19\xbf'
+unpack:  (-0.5999853014945984,)
+pos:  -0.599985301495
+tail:  ['\x08', 'f']
+posbytes:  ['\xa3', '\x98', '\x19', '\xbf']
+join:  '\xa3\x98\x19\xbf'
+unpack:  (-0.5999853014945984,)
+pos:  -0.599985301495
+tail:  ['\x08', 'f']
+posbytes:  ['\xa3', '\x98', '\x19', '\xbf']
+join:  '\xa3\x98\x19\xbf'
+unpack:  (-0.5999853014945984,)
+pos:  -0.599985301495
+tail:  ['\x08', 'f']
+posbytes:  ['\xa3', '\x98', '\x19', '\xbf']
+join:  '\xa3\x98\x19\xbf'
+unpack:  (-0.5999853014945984,)
+pos:  -0.599985301495
+tail:  ['\x08', 'f']
+posbytes:  ['\xa3', '\x98', '\x19', '\xbf']
+join:  '\xa3\x98\x19\xbf'
+unpack:  (-0.5999853014945984,)
+pos:  -0.599985301495
+tail:  ['\x08', 'f']
+posbytes:  ['\xa3', '\x98', '\x19', '\xbf']
+join:  '\xa3\x98\x19\xbf'
+unpack:  (-0.5999853014945984,)
+pos:  -0.599985301495
+tail:  ['\x08', 'f']
+posbytes:  ['\xa3', '\x98', '\x19', '\xbf']
+join:  '\xa3\x98\x19\xbf'
+unpack:  (-0.5999853014945984,)
+pos:  -0.599985301495
+tail:  ['\x08', 'f']
+posbytes:  ['\xa3', '\x98', '\x19', '\xbf']
+join:  '\xa3\x98\x19\xbf'
+unpack:  (-0.5999853014945984,)
+pos:  -0.599985301495
+tail:  ['\x08', 'f']
+posbytes:  ['\xa3', '\x98', '\x19', '\xbf']
+join:  '\xa3\x98\x19\xbf'
+unpack:  (-0.5999853014945984,)
+pos:  -0.599985301495
+tail:  ['\x08', 'f']
+posbytes:  ['\xa3', '\x98', '\x19', '\xbf']
+join:  '\xa3\x98\x19\xbf'
+unpack:  (-0.5999853014945984,)
+pos:  -0.599985301495
+tail:  ['\x08', 'f']
+posbytes:  ['\xa3', '\x98', '\x19', '\xbf']
+join:  '\xa3\x98\x19\xbf'
+unpack:  (-0.5999853014945984,)
+pos:  -0.599985301495
+tail:  ['\x08', 'f']
+posbytes:  ['I', '\xa1', '\x14', '\xbf']
+join:  'I\xa1\x14\xbf'
+unpack:  (-0.5805860161781311,)
+pos:  -0.580586016178
+tail:  ['\x08', 'f']
+posbytes:  ['=', 'p', '\x12', '\xbf']
+join:  '=p\x12\xbf'
+unpack:  (-0.5720251202583313,)
+pos:  -0.572025120258
+tail:  ['\x08', 'f']
+posbytes:  ['\r', ':', '\x90', '\xbf']
+join:  '\r:\x90\xbf'
+unpack:  (-1.1267715692520142,)
+pos:  -1.12677156925
+tail:  ['\x08', 'f']
+posbytes:  ['\x93', '\x02', '\x0e', '\xbf']
+join:  '\x93\x02\x0e\xbf'
+unpack:  (-0.554726779460907,)
+pos:  -0.554726779461
+tail:  ['\x08', 'f']
+posbytes:  ['\xc6', '\xa1', '\t', '\xbf']
+join:  '\xc6\xa1\t\xbf'
+unpack:  (-0.537624716758728,)
+pos:  -0.537624716759
+tail:  ['\x08', 'f']
+posbytes:  ['\x95', 'k', '\x07', '\xbf']
+join:  '\x95k\x07\xbf'
+unpack:  (-0.528985321521759,)
+pos:  -0.528985321522
+tail:  ['\x08', 'f']
+posbytes:  ['\x8a', ':', '\x05', '\xbf']
+join:  '\x8a:\x05\xbf'
+unpack:  (-0.520424485206604,)
+pos:  -0.520424485207
+tail:  ['\x08', 'f']
+posbytes:  ['\xa3', '\x05', '\x03', '\xbf']
+join:  '\xa3\x05\x03\xbf'
+unpack:  (-0.5118047595024109,)
+pos:  -0.511804759502
+tail:  ['\x08', 'f']
+posbytes:  ['r', '\xcf', '\x00', '\xbf']
+join:  'r\xcf\x00\xbf'
+unpack:  (-0.5031653642654419,)
+pos:  -0.503165364265
+tail:  ['\x08', 'f']
+posbytes:  ['a', '?', '\xfd', '\xbe']
+join:  'a?\xfd\xbe'
+unpack:  (-0.49462416768074036,)
+pos:  -0.494624167681
+tail:  ['\x08', 'f']
+posbytes:  ['\xff', '\xd2', '\xf8', '\xbe']
+join:  '\xff\xd2\xf8\xbe'
+unpack:  (-0.48598477244377136,)
+pos:  -0.485984772444
+tail:  ['\x08', 'f']
+posbytes:  ['\x0b', 'd', '\xf4', '\xbe']
+join:  '\x0bd\xf4\xbe'
+unpack:  (-0.47732576727867126,)
+pos:  -0.477325767279
+tail:  ['\x08', 'f']
+posbytes:  ['\xf5', '\x01', '\xf0', '\xbe']
+join:  '\xf5\x01\xf0\xbe'
+unpack:  (-0.46876493096351624,)
+pos:  -0.468764930964
+tail:  ['\x08', 'f']
+posbytes:  ['\xb9', '\x9a', '\xeb', '\xbe']
+join:  '\xb9\x9a\xeb\xbe'
+unpack:  (-0.4601648151874542,)
+pos:  -0.460164815187
+tail:  ['\x08', 'f']
+posbytes:  ['\xc5', '+', '\xe7', '\xbe']
+join:  '\xc5+\xe7\xbe'
+unpack:  (-0.4515058100223541,)
+pos:  -0.451505810022
+tail:  ['\x08', 'f']
+posbytes:  ['\xd4', '\xce', '\xe2', '\xbe']
+join:  '\xd4\xce\xe2\xbe'
+unpack:  (-0.4429842233657837,)
+pos:  -0.442984223366
+tail:  ['\x08', 'f']
+posbytes:  ['s', 'b', '\xde', '\xbe']
+join:  'sb\xde\xbe'
+unpack:  (-0.4343448579311371,)
+pos:  -0.434344857931
+tail:  ['\x08', 'f']
+posbytes:  ['h', '\x91', '\xd5', '\xbe']
+join:  'h\x91\xd5\xbe'
+unpack:  (-0.41712498664855957,)
+pos:  -0.417124986649
+tail:  ['\x08', 'f']
+posbytes:  ['\x9a', "'", '\xd1', '\xbe']
+join:  "\x9a'\xd1\xbe"
+unpack:  (-0.40850526094436646,)
+pos:  -0.408505260944
+tail:  ['\x08', 'f']
+posbytes:  ['8', '\xbb', '\xcc', '\xbe']
+join:  '8\xbb\xcc\xbe'
+unpack:  (-0.39986586570739746,)
+pos:  -0.399865865707
+tail:  ['\x08', 'f']
+posbytes:  ['\xb5', '[', '\xc8', '\xbe']
+join:  '\xb5[\xc8\xbe'
+unpack:  (-0.3913246691226959,)
+pos:  -0.391324669123
+tail:  ['\x08', 'f']
+posbytes:  ['S', '\xef', '\xc3', '\xbe']
+join:  'S\xef\xc3\xbe'
+unpack:  (-0.38268527388572693,)
+pos:  -0.382685273886
+tail:  ['\x08', 'f']
+posbytes:  ['\xab', '\x8a', '\xbf', '\xbe']
+join:  '\xab\x8a\xbf\xbe'
+unpack:  (-0.3741048276424408,)
+pos:  -0.374104827642
+tail:  ['\x08', 'f']
+posbytes:  ['\xdc', ' ', '\xbb', '\xbe']
+join:  '\xdc \xbb\xbe'
+unpack:  (-0.3654850721359253,)
+pos:  -0.365485072136
+tail:  ['\x08', 'f']
+posbytes:  ['z', '\xb4', '\xb6', '\xbe']
+join:  'z\xb4\xb6\xbe'
+unpack:  (-0.3568456768989563,)
+pos:  -0.356845676899
+tail:  ['\x08', 'f']
+posbytes:  ['\x19', 'H', '\xb2', '\xbe']
+join:  '\x19H\xb2\xbe'
+unpack:  (-0.3482063114643097,)
+pos:  -0.348206311464
+tail:  ['\x08', 'f']
+posbytes:  ['\x96', '\xe8', '\xad', '\xbe']
+join:  '\x96\xe8\xad\xbe'
+unpack:  (-0.33966511487960815,)
+pos:  -0.33966511488
+tail:  ['\x08', 'f']
+posbytes:  ['4', '|', '\xa9', '\xbe']
+join:  '4|\xa9\xbe'
+unpack:  (-0.33102571964263916,)
+pos:  -0.331025719643
+tail:  ['\x08', 'f']
+posbytes:  ['\x8b', '\x17', '\xa5', '\xbe']
+join:  '\x8b\x17\xa5\xbe'
+unpack:  (-0.32244524359703064,)
+pos:  -0.322445243597
+tail:  ['\x08', 'f']
+posbytes:  ['O', '\xb0', '\xa0', '\xbe']
+join:  'O\xb0\xa0\xbe'
+unpack:  (-0.31384512782096863,)
+pos:  -0.313845127821
+tail:  ['\x08', 'f']
+posbytes:  ['\xcb', 'P', '\x9c', '\xbe']
+join:  '\xcbP\x9c\xbe'
+unpack:  (-0.3053039014339447,)
+pos:  -0.305303901434
+tail:  ['\x08', 'f']
+posbytes:  ['\xd7', '\xe1', '\x97', '\xbe']
+join:  '\xd7\xe1\x97\xbe'
+unpack:  (-0.2966448962688446,)
+pos:  -0.296644896269
+tail:  ['\x08', 'f']
+posbytes:  ['T', '\x82', '\x93', '\xbe']
+join:  'T\x82\x93\xbe'
+unpack:  (-0.28810369968414307,)
+pos:  -0.288103699684
+tail:  ['\x08', 'f']
+posbytes:  ['o', '\xb6', '\x8a', '\xbe']
+join:  'o\xb6\x8a\xbe'
+unpack:  (-0.27092310786247253,)
+pos:  -0.270923107862
+tail:  ['\x08', 'f']
+posbytes:  ['\xa0', 'L', '\x86', '\xbe']
+join:  '\xa0L\x86\xbe'
+unpack:  (-0.262303352

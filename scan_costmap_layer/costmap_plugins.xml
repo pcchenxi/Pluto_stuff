@@ -1,0 +1,5 @@
+<library path="lib/libscan_classifier_layer">  
+  <class type="scan_classifier_layer_namespace::ScanClassifierLayer" base_class_type="costmap_2d::Layer">  
+    <description>cost map genenrat from point cloud classification result</description>  
+  </class>  
+</library>  

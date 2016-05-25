@@ -1,0 +1,180 @@
+<launch>
+
+<!-- ATRV -->
+	  <node pkg="atrv" type="atrvnode" name="atrv" output="screen" >
+	       <param name="port" value="/dev/ttyUSB1" />
+	</node>
+
+
+<!-- SICK sensor -->
+	
+	<node pkg="sicktoolbox_wrapper" type="sicklms" name="sick">
+		<param name="port" value="/dev/ttyUSB0" />
+	</node>
+
+<!-- Prosilica camera -->
+
+	<group ns="camera">
+		<node name="image_proc" pkg="image_proc" type="image_proc"/>
+	</group>
+
+	<node name="camera" pkg="avt_vimba_camera" type="mono_camera_node" >
+		<!--<param name="guid" value="50-0503343290"/>-->
+		<param name="guid" value="DEV_000F310090F1"/>
+		<param name="ip_address" value="192.168.1.23"/>
+		<param name="camera_info_url" value="file://$(find avt_vimba_camera)/calibrations/calibration_50-0503343290.yaml"/>
+		<param name="frame_id" value="left_optical"/>
+		<param name="trig_timestamp_topic" value=""/>
+		<param name="show_debug_prints" value="true"/>
+
+		<!-- Trigger mode:
+			1. Freerun
+			2. SyncIn1
+			3. SyncIn2
+			4. SyncIn3
+			5. SyncIn4
+			6. FixedRate
+			7. Software
+		-->
+		<param name="trigger_source" value="FixedRate"/>
+
+		<!-- Acquisition mode:
+			1. Continuous
+			2. SingleFrame
+			3. MultiFrame
+			4. Recorder
+		-->
+		<param name="acquisition_mode" value="Continuous"/>
+
+		<!-- Acquisition rate in fps -->
+		<param name="acquisition_rate" value="12"/>
+
+		<!-- Pixel format:
+			1. Mono8
+			2. Mono12
+			3. Mono12Packed
+			4. BayerRG8
+			5. BayerRG12Packed
+			6. BayerGR12
+			7. RGB8Packed
+			8. BGR8Packed
+		-->
+		<param name="pixel_format" value="BayerRG8"/>
+		<!-- Exposure in us -->
+		<param name="exposure" value="1000"/>
+		<!-- Gain in dB -->
+		<param name="gain" value="0"/>
+
+		<!-- Auto control
+			1. Off
+			2. Once
+			3. Continuous
+		-->
+		<param name="exposure_auto" value="Continuous"/>
+		<param name="gain_auto" value="Continuous"/>
+		<param name="whitebalance_auto" value="Continuous"/>
+
+		<param name="binning_x" value="1"/>
+		<param name="binning_y" value="1"/>
+		<param name="decimation_x" value="1"/>
+		<param name="decimation_y" value="1"/>
+		<param name="x_offset" value="8"/>
+		<param name="y_offset" value="9"/>
+		<param name="width" value="1920"/>
+		<param name="height" value="1440"/>
+
+		<param name="stream_bytes_per_second" value="45000000"/>
+	</node>
+
+
+<!-- Kinect sensor-->
+	<arg name="base_name"         default="kinect2"/>
+	  <arg name="sensor"            default="" />
+	  <arg name="publish_tf"        default="true" />
+	  <arg name="base_name_tf"      default="$(arg base_name)" />
+	  <arg name="fps_limit"         default="5"/>
+	  <arg name="calib_path"        default="$(find kinect2_bridge)/data/"/>
+	  <arg name="use_png"           default="false"/>
+	  <arg name="jpeg_quality"      default="90"/>
+	  <arg name="png_level"         default="1"/>
+	  <arg name="depth_method"     default="default"/>
+	  <arg name="depth_device"      default="-1"/>
+	  <arg name="reg_method"        default="default"/>
+	  <arg name="reg_devive"        default="-1"/>
+	  <arg name="max_depth"         default="12.0"/>
+	  <arg name="min_depth"         default="0.1"/>
+	  <arg name="queue_size"        default="5"/>
+	  <arg name="bilateral_filter"  default="true"/>
+	  <arg name="edge_aware_filter" default="true"/>
+	  <arg name="worker_threads"    default="4"/>
+	  <arg name="machine"           default="localhost" />
+	  <arg name="nodelet_manager"   default="$(arg base_name)" />
+	  <arg name="start_manager"     default="true" />
+	  <arg name="use_machine"       default="true" />
+
+	  <machine name="localhost" address="localhost" if="$(arg use_machine)"/>
+
+	  <node pkg="nodelet" type="nodelet" name="$(arg nodelet_manager)" args="manager"
+	        if="$(arg start_manager)" machine="$(arg machine)" />
+
+	  <node pkg="nodelet" type="nodelet" name="$(arg base_name)_bridge" machine="$(arg machine)"
+	        args="load kinect2_bridge/kinect2_bridge_nodelet $(arg nodelet_manager)"
+	        respawn="true">
+	    <param name="base_name"         type="str"    value="$(arg base_name)"/>
+	    <param name="sensor"            type="str"    value="$(arg sensor)"/>
+	    <param name="publish_tf"        type="bool"   value="$(arg publish_tf)"/>
+	    <param name="base_name_tf"      type="str"    value="$(arg base_name_tf)"/>
+	    <param name="fps_limit"         type="double" value="$(arg fps_limit)"/>
+	    <param name="calib_path"        type="str"    value="$(arg calib_path)"/>
+	    <param name="use_png"           type="bool"   value="$(arg use_png)"/>
+	    <param name="jpeg_quality"      type="int"    value="$(arg jpeg_quality)"/>
+	    <param name="png_level"         type="int"    value="$(arg png_level)"/>
+	    <param name="depth_method"      type="str"    value="$(arg depth_method)"/>
+	    <param name="depth_device"      type="int"    value="$(arg depth_device)"/>
+	    <param name="reg_method"        type="str"    value="$(arg reg_method)"/>
+	    <param name="reg_devive"        type="int"    value="$(arg reg_devive)"/>
+	    <param name="max_depth"         type="double" value="$(arg max_depth)"/>
+	    <param name="min_depth"         type="double" value="$(arg min_depth)"/>
+	    <param name="queue_size"        type="int"    value="$(arg queue_size)"/>
+	    <param name="bilateral_filter"  type="bool"   value="$(arg bilateral_filter)"/>
+	    <param name="edge_aware_filter" type="bool"   value="$(arg edge_aware_filter)"/>
+	    <param name="worker_threads"    type="int"    value="$(arg worker_threads)"/>
+	  </node>
+
+	  <!-- sd point cloud (512 x 424) -->
+	  <node pkg="nodelet" type="nodelet" name="$(arg base_name)_points_xyzrgb_sd" machine="$(arg machine)"
+	        args="load depth_image_proc/point_cloud_xyzrgb $(arg nodelet_manager)" respawn="true">
+	    <remap from="rgb/camera_info"             to="$(arg base_name)/sd/camera_info" />
+	    <remap from="rgb/image_rect_color"        to="$(arg base_name)/sd/image_color_rect" />
+	    <remap from="depth_registered/image_rect" to="$(arg base_name)/sd/image_depth_rect" />
+	    <remap from="depth_registered/points"     to="$(arg base_name)/sd/points" />
+	    <param name="queue_size" type="int" value="$(arg queue_size)" />
+	  </node>
+
+	  <!-- qhd point cloud (960 x 540) -->
+	  <node pkg="nodelet" type="nodelet" name="$(arg base_name)_points_xyzrgb_qhd" machine="$(arg machine)"
+	        args="load depth_image_proc/point_cloud_xyzrgb $(arg nodelet_manager)" respawn="true">
+	    <remap from="rgb/camera_info"             to="$(arg base_name)/qhd/camera_info" />
+	    <remap from="rgb/image_rect_color"        to="$(arg base_name)/qhd/image_color_rect" />
+	    <remap from="depth_registered/image_rect" to="$(arg base_name)/qhd/image_depth_rect" />
+	    <remap from="depth_registered/points"     to="$(arg base_name)/qhd/points" />
+	    <param name="queue_size" type="int" value="$(arg queue_size)" />
+	  </node>
+
+	  <!-- hd point cloud (1920 x 1080) -->
+	  <node pkg="nodelet" type="nodelet" name="$(arg base_name)_points_xyzrgb_hd" machine="$(arg machine)"
+	        args="load depth_image_proc/point_cloud_xyzrgb $(arg nodelet_manager)" respawn="true">
+	    <remap from="rgb/camera_info"             to="$(arg base_name)/hd/camera_info" />
+	    <remap from="rgb/image_rect_color"        to="$(arg base_name)/hd/image_color_rect" />
+	    <remap from="depth_registered/image_rect" to="$(arg base_name)/hd/image_depth_rect" />
+	    <remap from="depth_registered/points"     to="$(arg base_name)/hd/points" />
+	    <param name="queue_size" type="int" value="$(arg queue_size)" />
+	  </node>
+
+<!-- Joystick control -->
+	<node pkg="joy" type="joy_node" name="joy_publisher" />
+	<node pkg="pluto" type="joystick_control.py" name="joystick_to_atrv" output="screen" />
+	<node pkg="pluto" type="ptunode.py" name = "ptunode"/>
+	<node pkg="pluto" type="joystick_ptu_control.py" name = "joystick_ptu_controller"/>
+
+</launch>

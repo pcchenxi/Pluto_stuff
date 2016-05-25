@@ -1,0 +1,6 @@
+<launch>
+<!-- Joystick control -->
+	<node pkg="joy" type="joy_node" name="joy_publisher" />
+	<node pkg="pluto" type="ptunode.py" name = "ptunode"/>
+	<node pkg="pluto" type="joystick_ptu_control.py" name = "joystick_ptu_controller"/>
+</launch>

@@ -1,0 +1,15 @@
+<launch>
+<!-- ATRV -->
+	  <node pkg="atrv" type="atrvnode" name="atrv" output="screen" >
+	       <param name="port" value="/dev/ttyUSB1" />
+	</node>
+
+<!-- Joystick control -->
+	<node pkg="joy" type="joy_node" name="joy_publisher" />
+	<node pkg="pluto" type="joystick_control.py" name="joystick_to_atrv" output="screen" />
+	<node pkg="pluto" type="ptunode.py" name = "ptunode"/>
+	<node pkg="pluto" type="joystick_ptu_control.py" name = "joystick_ptu_controller"/>
+	<!-- not yet working. Run standalone.<node pkg="pluto" type="sensor_recorder.py" name="recorder" output="screen"/> -->
+
+
+</launch>

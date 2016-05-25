@@ -1,0 +1,51 @@
+<launch>
+
+<!-- ATRV -->
+	  <node pkg="atrv" type="atrvnode" name="atrv" output="screen" >
+	       <param name="port" value="/dev/ttyUSB1" />
+	</node>
+
+
+<!-- SICK sensor
+	
+	<node pkg="sicktoolbox_wrapper" type="sicklms" name="sick">
+		<param name="port" value="/dev/ttyUSB2" />
+	</node>
+-->
+
+<!-- Joystick control -->
+	<node pkg="joy" type="joy_node" name="joy_publisher" />
+	<node pkg="pluto" type="joystick_control.py" name="joystick_to_atrv" output="screen" />
+	<node pkg="pluto" type="ptunode.py" name = "ptunode" output="screen"/>
+	<node pkg="pluto" type="joystick_ptu_control.py" name = "joystick_ptu_controller"/>
+
+<!-- Velodyne -->
+	<arg name="pcap" default="" />
+	<arg name="calibration" default="$(find velodyne_launch)/params/VLP-16.yaml"/>
+
+	<include file="$(find velodyne_driver)/launch/nodelet_manager.launch">
+	<arg name="model" value="16"/>
+	<arg name="rpm" default="600.0"/>
+	<arg name="pcap" value="$(arg pcap)"/>
+	</include>
+
+	<include file="$(find velodyne_pointcloud)/launch/cloud_nodelet.launch">
+	<arg name="calibration" value="$(arg calibration)"/>
+	</include>
+
+<!-- TF and points processing -->
+        <param name="robot_description" command="cat $(find pluto_xi)/model/atrv.urdf" />
+        <node name="robot_state_publisher" pkg="robot_state_publisher" type="state_publisher" />
+        <node name="pluto_state_broadcaster" pkg="pluto_xi" type="pluto_state_broadcaster" />
+
+
+<!-- Laser Assembler
+        <node type="laser_scan_assembler" pkg="laser_assembler" name="laser_scan_assembler">
+		<remap from="scan" to="scan"/>
+		<param name="max_scans" type="int" value="4000" />
+		<param name="fixed_frame" type="string" value="odom" />
+	  	</node>
+	<node type="laserdata_assembler" pkg="pluto_xi" name="pluto_laser_assembler"></node>
+-->
+
+</launch>

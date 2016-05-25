@@ -1,0 +1,12 @@
+<!-- Core robot nodes, replaces player's driver stack -->
+
+<launch>
+
+<!-- Atrv -->
+  <node pkg="Atrv" type="atrv" name="atrv" output="screen">
+    <param name="port" value="/dev/ttyR1"/>
+    <remap from="/atrv/odom" to="/odom"/>
+    <remap from="/atrv/cmd_vel" to="/cmd_vel"/>
+  </node>
+
+</launch>
