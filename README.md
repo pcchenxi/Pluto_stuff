@@ -8,7 +8,6 @@ NDT_registration for velodyne scans
   
   
 param in launch file:
-
   range: the minimum distance for valid points. The points inside this range will not be used.
   shift: the minimum distance difference to add a new scan to the global point map. (the global point map is only used to display)
   
